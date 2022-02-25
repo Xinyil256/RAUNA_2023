@@ -1,0 +1,3260 @@
+imgDICM_01Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:14.990195948254472
+SSIM:0.19178858399391174
+
+imgDICM_01Epoch_3
+alpha:tensor([0.7649], device='cuda:0', requires_grad=True)
+PSNR:16.068223240414778
+SSIM:0.2076754868030548
+
+imgDICM_01Epoch_4
+alpha:tensor([0.7378], device='cuda:0', requires_grad=True)
+PSNR:16.243548526640676
+SSIM:0.20906299352645874
+
+imgDICM_01Epoch_5
+alpha:tensor([0.7093], device='cuda:0', requires_grad=True)
+PSNR:16.499164879854707
+SSIM:0.21296197175979614
+
+imgDICM_01Epoch_6
+alpha:tensor([0.6787], device='cuda:0', requires_grad=True)
+PSNR:16.874878884348735
+SSIM:0.21695666015148163
+
+imgDICM_01Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:17.16961650314574
+SSIM:0.22452929615974426
+
+imgDICM_02Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:9.534861753298031
+SSIM:0.35131195187568665
+
+imgDICM_02Epoch_10
+alpha:tensor([0.8902], device='cuda:0', requires_grad=True)
+PSNR:9.571589441768836
+SSIM:0.35204607248306274
+
+imgDICM_02Epoch_11
+alpha:tensor([0.8763], device='cuda:0', requires_grad=True)
+PSNR:9.843151245160017
+SSIM:0.37020939588546753
+
+imgDICM_02Epoch_12
+alpha:tensor([0.8621], device='cuda:0', requires_grad=True)
+PSNR:10.04164760529525
+SSIM:0.3838297724723816
+
+imgDICM_02Epoch_14
+alpha:tensor([0.8448], device='cuda:0', requires_grad=True)
+PSNR:10.133343449754088
+SSIM:0.3901002109050751
+
+imgDICM_02Epoch_16
+alpha:tensor([0.8382], device='cuda:0', requires_grad=True)
+PSNR:10.206919731087625
+SSIM:0.39500856399536133
+
+imgDICM_02Epoch_17
+alpha:tensor([0.8372], device='cuda:0', requires_grad=True)
+PSNR:10.313357380507103
+SSIM:0.40065446496009827
+
+imgDICM_03Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:10.052318721368357
+SSIM:0.27092182636260986
+
+imgDICM_01Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:17.015841379578664
+SSIM:0.21693794429302216
+
+imgDICM_01Epoch_3
+alpha:tensor([0.6665], device='cuda:0', requires_grad=True)
+PSNR:17.060919276007688
+SSIM:0.2206050157546997
+
+imgDICM_01Epoch_4
+alpha:tensor([0.6301], device='cuda:0', requires_grad=True)
+PSNR:17.613739904563623
+SSIM:0.22711734473705292
+
+imgDICM_01Epoch_5
+alpha:tensor([0.5962], device='cuda:0', requires_grad=True)
+PSNR:17.917949281964987
+SSIM:0.23113949596881866
+
+imgDICM_01Epoch_6
+alpha:tensor([0.5633], device='cuda:0', requires_grad=True)
+PSNR:18.174236318664207
+SSIM:0.23390215635299683
+
+imgDICM_01Epoch_7
+alpha:tensor([0.5296], device='cuda:0', requires_grad=True)
+PSNR:18.44839222683047
+SSIM:0.23722490668296814
+
+imgDICM_01Epoch_10
+alpha:tensor([0.4478], device='cuda:0', requires_grad=True)
+PSNR:18.657433318038265
+SSIM:0.23886708915233612
+
+imgDICM_01Epoch_11
+alpha:tensor([0.4229], device='cuda:0', requires_grad=True)
+PSNR:18.773525524162586
+SSIM:0.24064606428146362
+
+imgDICM_01Epoch_12
+alpha:tensor([0.3993], device='cuda:0', requires_grad=True)
+PSNR:18.85441380741274
+SSIM:0.24135592579841614
+
+imgDICM_01Epoch_13
+alpha:tensor([0.3739], device='cuda:0', requires_grad=True)
+PSNR:19.087813172920498
+SSIM:0.24424661695957184
+
+imgDICM_01Epoch_14
+alpha:tensor([0.3505], device='cuda:0', requires_grad=True)
+PSNR:19.12156889492418
+SSIM:0.2443751096725464
+
+imgDICM_01Epoch_15
+alpha:tensor([0.3277], device='cuda:0', requires_grad=True)
+PSNR:19.23426180389574
+SSIM:0.24573266506195068
+
+imgDICM_01Epoch_16
+alpha:tensor([0.3252], device='cuda:0', requires_grad=True)
+PSNR:19.328529735646494
+SSIM:0.2469918131828308
+
+imgDICM_02Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.728518604401216
+SSIM:0.49033838510513306
+
+imgDICM_02Epoch_3
+alpha:tensor([0.6502], device='cuda:0', requires_grad=True)
+PSNR:14.243111249652342
+SSIM:0.4994843900203705
+
+imgDICM_02Epoch_4
+alpha:tensor([0.6006], device='cuda:0', requires_grad=True)
+PSNR:14.79964645079747
+SSIM:0.5089072585105896
+
+imgDICM_02Epoch_6
+alpha:tensor([0.5258], device='cuda:0', requires_grad=True)
+PSNR:14.894803958567145
+SSIM:0.5124063491821289
+
+imgDICM_02Epoch_7
+alpha:tensor([0.4934], device='cuda:0', requires_grad=True)
+PSNR:15.152180585957144
+SSIM:0.5169076323509216
+
+imgDICM_02Epoch_8
+alpha:tensor([0.4605], device='cuda:0', requires_grad=True)
+PSNR:15.429289850388184
+SSIM:0.5208516716957092
+
+imgDICM_02Epoch_9
+alpha:tensor([0.4274], device='cuda:0', requires_grad=True)
+PSNR:15.673353974481046
+SSIM:0.5245290398597717
+
+imgDICM_02Epoch_10
+alpha:tensor([0.3980], device='cuda:0', requires_grad=True)
+PSNR:15.714725193636319
+SSIM:0.5259727835655212
+
+imgDICM_02Epoch_11
+alpha:tensor([0.3690], device='cuda:0', requires_grad=True)
+PSNR:15.91361385062158
+SSIM:0.5291888117790222
+
+imgDICM_02Epoch_15
+alpha:tensor([0.2800], device='cuda:0', requires_grad=True)
+PSNR:16.046890099799594
+SSIM:0.5325393676757812
+
+imgDICM_02Epoch_16
+alpha:tensor([0.2779], device='cuda:0', requires_grad=True)
+PSNR:16.129441956892027
+SSIM:0.5337668061256409
+
+imgDICM_02Epoch_30
+alpha:tensor([0.2565], device='cuda:0', requires_grad=True)
+PSNR:16.22174648148786
+SSIM:0.534716010093689
+
+imgDICM_03Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.913756903065742
+SSIM:0.40217968821525574
+
+imgDICM_03Epoch_3
+alpha:tensor([0.6525], device='cuda:0', requires_grad=True)
+PSNR:14.174129408021903
+SSIM:0.4041672646999359
+
+imgDICM_03Epoch_4
+alpha:tensor([0.6048], device='cuda:0', requires_grad=True)
+PSNR:14.667436138556502
+SSIM:0.4143323302268982
+
+imgDICM_03Epoch_5
+alpha:tensor([0.5637], device='cuda:0', requires_grad=True)
+PSNR:14.928035694539306
+SSIM:0.4205230474472046
+
+imgDICM_03Epoch_6
+alpha:tensor([0.5242], device='cuda:0', requires_grad=True)
+PSNR:15.177845942245654
+SSIM:0.425453782081604
+
+imgDICM_03Epoch_7
+alpha:tensor([0.4819], device='cuda:0', requires_grad=True)
+PSNR:15.387871041945091
+SSIM:0.4291759729385376
+
+imgDICM_03Epoch_9
+alpha:tensor([0.4095], device='cuda:0', requires_grad=True)
+PSNR:15.533686899666117
+SSIM:0.4326009154319763
+
+imgDICM_03Epoch_10
+alpha:tensor([0.3734], device='cuda:0', requires_grad=True)
+PSNR:15.75051441473342
+SSIM:0.43654561042785645
+
+imgDICM_03Epoch_11
+alpha:tensor([0.3383], device='cuda:0', requires_grad=True)
+PSNR:15.9282890331041
+SSIM:0.43975797295570374
+
+imgDICM_03Epoch_12
+alpha:tensor([0.3061], device='cuda:0', requires_grad=True)
+PSNR:16.03443591192565
+SSIM:0.4410005807876587
+
+imgDICM_03Epoch_13
+alpha:tensor([0.2756], device='cuda:0', requires_grad=True)
+PSNR:16.165124796537647
+SSIM:0.4446087181568146
+
+imgDICM_03Epoch_14
+alpha:tensor([0.2484], device='cuda:0', requires_grad=True)
+PSNR:16.220389344312732
+SSIM:0.44609642028808594
+
+imgDICM_03Epoch_15
+alpha:tensor([0.2233], device='cuda:0', requires_grad=True)
+PSNR:16.29338187529035
+SSIM:0.4471040368080139
+
+imgDICM_03Epoch_29
+alpha:tensor([0.1991], device='cuda:0', requires_grad=True)
+PSNR:16.409378951132386
+SSIM:0.4493767023086548
+
+imgDICM_04Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:12.755018112153518
+SSIM:0.28256985545158386
+
+imgDICM_04Epoch_3
+alpha:tensor([0.6583], device='cuda:0', requires_grad=True)
+PSNR:13.073026196173458
+SSIM:0.4276334047317505
+
+imgDICM_04Epoch_4
+alpha:tensor([0.6155], device='cuda:0', requires_grad=True)
+PSNR:13.45159170043361
+SSIM:0.5576215982437134
+
+imgDICM_04Epoch_5
+alpha:tensor([0.5722], device='cuda:0', requires_grad=True)
+PSNR:13.584081100099258
+SSIM:0.4755306541919708
+
+imgDICM_04Epoch_6
+alpha:tensor([0.5352], device='cuda:0', requires_grad=True)
+PSNR:13.673965982000988
+SSIM:0.48031049966812134
+
+imgDICM_04Epoch_7
+alpha:tensor([0.5037], device='cuda:0', requires_grad=True)
+PSNR:13.698067219885848
+SSIM:0.47696736454963684
+
+imgDICM_04Epoch_8
+alpha:tensor([0.4745], device='cuda:0', requires_grad=True)
+PSNR:13.823441289546231
+SSIM:0.48193028569221497
+
+imgDICM_04Epoch_9
+alpha:tensor([0.4463], device='cuda:0', requires_grad=True)
+PSNR:13.964849169226339
+SSIM:0.3665846884250641
+
+imgDICM_04Epoch_10
+alpha:tensor([0.4208], device='cuda:0', requires_grad=True)
+PSNR:14.039033206141628
+SSIM:0.41560083627700806
+
+imgDICM_04Epoch_11
+alpha:tensor([0.3942], device='cuda:0', requires_grad=True)
+PSNR:14.183377082560504
+SSIM:0.4160793125629425
+
+imgDICM_04Epoch_12
+alpha:tensor([0.3699], device='cuda:0', requires_grad=True)
+PSNR:14.236401837412318
+SSIM:0.4215362071990967
+
+imgDICM_04Epoch_13
+alpha:tensor([0.3424], device='cuda:0', requires_grad=True)
+PSNR:14.36436998263435
+SSIM:0.5184472799301147
+
+imgDICM_04Epoch_14
+alpha:tensor([0.3174], device='cuda:0', requires_grad=True)
+PSNR:14.422308337475524
+SSIM:0.5226569771766663
+
+imgDICM_04Epoch_15
+alpha:tensor([0.2929], device='cuda:0', requires_grad=True)
+PSNR:14.506184458259014
+SSIM:0.45139649510383606
+
+imgDICM_04Epoch_16
+alpha:tensor([0.2905], device='cuda:0', requires_grad=True)
+PSNR:14.507926388106851
+SSIM:0.46567419171333313
+
+imgDICM_04Epoch_17
+alpha:tensor([0.2878], device='cuda:0', requires_grad=True)
+PSNR:14.51985457174408
+SSIM:0.5000808835029602
+
+imgDICM_04Epoch_18
+alpha:tensor([0.2852], device='cuda:0', requires_grad=True)
+PSNR:14.520632440752202
+SSIM:0.48579615354537964
+
+imgDICM_05Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:14.054948067872129
+SSIM:0.4234417974948883
+
+imgDICM_05Epoch_3
+alpha:tensor([0.6543], device='cuda:0', requires_grad=True)
+PSNR:14.476976488229138
+SSIM:0.4284159243106842
+
+imgDICM_05Epoch_4
+alpha:tensor([0.6134], device='cuda:0', requires_grad=True)
+PSNR:14.89746892960785
+SSIM:0.4253368675708771
+
+imgDICM_05Epoch_5
+alpha:tensor([0.5785], device='cuda:0', requires_grad=True)
+PSNR:15.027839858865894
+SSIM:0.4235326647758484
+
+imgDICM_05Epoch_6
+alpha:tensor([0.5421], device='cuda:0', requires_grad=True)
+PSNR:15.247707122041385
+SSIM:0.44996243715286255
+
+imgDICM_05Epoch_7
+alpha:tensor([0.5076], device='cuda:0', requires_grad=True)
+PSNR:15.385731260047448
+SSIM:0.43632835149765015
+
+imgDICM_05Epoch_8
+alpha:tensor([0.4778], device='cuda:0', requires_grad=True)
+PSNR:15.388789133561701
+SSIM:0.4374765455722809
+
+imgDICM_05Epoch_9
+alpha:tensor([0.4477], device='cuda:0', requires_grad=True)
+PSNR:15.55677325933189
+SSIM:0.44363731145858765
+
+imgDICM_05Epoch_10
+alpha:tensor([0.4171], device='cuda:0', requires_grad=True)
+PSNR:15.685583938837134
+SSIM:0.4405221939086914
+
+imgDICM_05Epoch_11
+alpha:tensor([0.3901], device='cuda:0', requires_grad=True)
+PSNR:15.710754137306942
+SSIM:0.4420836865901947
+
+imgDICM_05Epoch_14
+alpha:tensor([0.3242], device='cuda:0', requires_grad=True)
+PSNR:15.821544498158433
+SSIM:0.4395972192287445
+
+imgDICM_05Epoch_15
+alpha:tensor([0.3026], device='cuda:0', requires_grad=True)
+PSNR:15.937004815906118
+SSIM:0.4613892436027527
+
+imgDICM_05Epoch_16
+alpha:tensor([0.3004], device='cuda:0', requires_grad=True)
+PSNR:15.953649375232521
+SSIM:0.4453571140766144
+
+imgDICM_05Epoch_17
+alpha:tensor([0.2982], device='cuda:0', requires_grad=True)
+PSNR:15.999503628457726
+SSIM:0.44356682896614075
+
+imgDICM_05Epoch_18
+alpha:tensor([0.2959], device='cuda:0', requires_grad=True)
+PSNR:16.021849026153223
+SSIM:0.34554147720336914
+
+imgDICM_05Epoch_19
+alpha:tensor([0.2935], device='cuda:0', requires_grad=True)
+PSNR:16.058796403614636
+SSIM:0.4589811861515045
+
+imgDICM_05Epoch_24
+alpha:tensor([0.2820], device='cuda:0', requires_grad=True)
+PSNR:16.058937751410667
+SSIM:0.4512717127799988
+
+imgDICM_06Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.188746544659827
+SSIM:0.3338511288166046
+
+imgDICM_06Epoch_3
+alpha:tensor([0.6577], device='cuda:0', requires_grad=True)
+PSNR:13.425889555725748
+SSIM:0.3408706784248352
+
+imgDICM_06Epoch_4
+alpha:tensor([0.6161], device='cuda:0', requires_grad=True)
+PSNR:13.859005459474282
+SSIM:0.3524717390537262
+
+imgDICM_06Epoch_5
+alpha:tensor([0.5795], device='cuda:0', requires_grad=True)
+PSNR:14.049292311375375
+SSIM:0.35777562856674194
+
+imgDICM_06Epoch_6
+alpha:tensor([0.5483], device='cuda:0', requires_grad=True)
+PSNR:14.091486637375406
+SSIM:0.3588443100452423
+
+imgDICM_06Epoch_7
+alpha:tensor([0.5210], device='cuda:0', requires_grad=True)
+PSNR:14.177723151168111
+SSIM:0.3611859083175659
+
+imgDICM_06Epoch_8
+alpha:tensor([0.4935], device='cuda:0', requires_grad=True)
+PSNR:14.381282146049694
+SSIM:0.3667159974575043
+
+imgDICM_06Epoch_13
+alpha:tensor([0.3970], device='cuda:0', requires_grad=True)
+PSNR:14.515745814327571
+SSIM:0.3703562915325165
+
+imgDICM_06Epoch_14
+alpha:tensor([0.3809], device='cuda:0', requires_grad=True)
+PSNR:14.549600071607891
+SSIM:0.37125638127326965
+
+imgDICM_06Epoch_15
+alpha:tensor([0.3649], device='cuda:0', requires_grad=True)
+PSNR:14.674109530557988
+SSIM:0.37464743852615356
+
+imgDICM_07Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:16.657631316551505
+SSIM:0.42513543367385864
+
+imgDICM_07Epoch_3
+alpha:tensor([0.6532], device='cuda:0', requires_grad=True)
+PSNR:17.379743490824644
+SSIM:0.395840048789978
+
+imgDICM_07Epoch_4
+alpha:tensor([0.6078], device='cuda:0', requires_grad=True)
+PSNR:17.869933566837616
+SSIM:0.40407904982566833
+
+imgDICM_07Epoch_5
+alpha:tensor([0.5607], device='cuda:0', requires_grad=True)
+PSNR:18.15684223729846
+SSIM:0.40942737460136414
+
+imgDICM_07Epoch_7
+alpha:tensor([0.4829], device='cuda:0', requires_grad=True)
+PSNR:18.225008431308773
+SSIM:0.40911784768104553
+
+imgDICM_07Epoch_8
+alpha:tensor([0.4468], device='cuda:0', requires_grad=True)
+PSNR:18.40963195077873
+SSIM:0.41565656661987305
+
+imgDICM_07Epoch_9
+alpha:tensor([0.4153], device='cuda:0', requires_grad=True)
+PSNR:18.423417765905597
+SSIM:0.41812002658843994
+
+imgDICM_07Epoch_10
+alpha:tensor([0.3848], device='cuda:0', requires_grad=True)
+PSNR:18.5533312090894
+SSIM:0.4222222864627838
+
+imgDICM_07Epoch_11
+alpha:tensor([0.3546], device='cuda:0', requires_grad=True)
+PSNR:18.69163742027035
+SSIM:0.4274795949459076
+
+imgDICM_07Epoch_12
+alpha:tensor([0.3239], device='cuda:0', requires_grad=True)
+PSNR:18.7587469201284
+SSIM:0.41974639892578125
+
+imgDICM_07Epoch_13
+alpha:tensor([0.2941], device='cuda:0', requires_grad=True)
+PSNR:18.83239774067161
+SSIM:0.42081451416015625
+
+imgDICM_07Epoch_14
+alpha:tensor([0.2638], device='cuda:0', requires_grad=True)
+PSNR:18.864710118371487
+SSIM:0.4265013337135315
+
+imgDICM_07Epoch_15
+alpha:tensor([0.2338], device='cuda:0', requires_grad=True)
+PSNR:18.92704511027805
+SSIM:0.44877737760543823
+
+imgDICM_07Epoch_16
+alpha:tensor([0.2309], device='cuda:0', requires_grad=True)
+PSNR:18.93589063539399
+SSIM:0.44700390100479126
+
+imgDICM_07Epoch_17
+alpha:tensor([0.2282], device='cuda:0', requires_grad=True)
+PSNR:18.96009568382407
+SSIM:0.44718965888023376
+
+imgDICM_07Epoch_27
+alpha:tensor([0.2028], device='cuda:0', requires_grad=True)
+PSNR:18.96825385306665
+SSIM:0.4520947337150574
+
+imgDICM_08Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:16.383399432381754
+SSIM:0.18914973735809326
+
+imgDICM_08Epoch_3
+alpha:tensor([0.6552], device='cuda:0', requires_grad=True)
+PSNR:17.239579857449275
+SSIM:0.20181703567504883
+
+imgDICM_08Epoch_4
+alpha:tensor([0.6085], device='cuda:0', requires_grad=True)
+PSNR:17.93839905591788
+SSIM:0.21283474564552307
+
+imgDICM_08Epoch_5
+alpha:tensor([0.5611], device='cuda:0', requires_grad=True)
+PSNR:18.31140662300266
+SSIM:0.2184990495443344
+
+imgDICM_08Epoch_6
+alpha:tensor([0.5211], device='cuda:0', requires_grad=True)
+PSNR:18.38728730788359
+SSIM:0.21938300132751465
+
+imgDICM_08Epoch_7
+alpha:tensor([0.4798], device='cuda:0', requires_grad=True)
+PSNR:18.80735978522585
+SSIM:0.22573837637901306
+
+imgDICM_08Epoch_8
+alpha:tensor([0.4415], device='cuda:0', requires_grad=True)
+PSNR:18.895628709402036
+SSIM:0.22742225229740143
+
+imgDICM_08Epoch_9
+alpha:tensor([0.4037], device='cuda:0', requires_grad=True)
+PSNR:19.003619345062003
+SSIM:0.22877249121665955
+
+imgDICM_08Epoch_10
+alpha:tensor([0.3666], device='cuda:0', requires_grad=True)
+PSNR:19.126500285112918
+SSIM:0.23038458824157715
+
+imgDICM_09Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:8.24236175159138
+SSIM:0.3963823914527893
+
+imgDICM_09Epoch_3
+alpha:tensor([0.7863], device='cuda:0', requires_grad=True)
+PSNR:9.510297135947496
+SSIM:0.46872401237487793
+
+imgDICM_09Epoch_4
+alpha:tensor([0.7535], device='cuda:0', requires_grad=True)
+PSNR:10.453804928034776
+SSIM:0.49529772996902466
+
+imgDICM_09Epoch_5
+alpha:tensor([0.7150], device='cuda:0', requires_grad=True)
+PSNR:11.105302348882189
+SSIM:0.5113961100578308
+
+imgDICM_09Epoch_6
+alpha:tensor([0.6828], device='cuda:0', requires_grad=True)
+PSNR:11.284157552862366
+SSIM:0.5168368816375732
+
+imgDICM_09Epoch_7
+alpha:tensor([0.6559], device='cuda:0', requires_grad=True)
+PSNR:11.371376641381106
+SSIM:0.5196800231933594
+
+imgDICM_09Epoch_8
+alpha:tensor([0.6330], device='cuda:0', requires_grad=True)
+PSNR:11.49438336704241
+SSIM:0.5231254696846008
+
+imgDICM_09Epoch_9
+alpha:tensor([0.6113], device='cuda:0', requires_grad=True)
+PSNR:11.745486839597312
+SSIM:0.5292197465896606
+
+imgDICM_09Epoch_10
+alpha:tensor([0.5914], device='cuda:0', requires_grad=True)
+PSNR:11.889086665627994
+SSIM:0.533257782459259
+
+imgDICM_09Epoch_11
+alpha:tensor([0.5687], device='cuda:0', requires_grad=True)
+PSNR:12.25283133802133
+SSIM:0.5411903262138367
+
+imgDICM_09Epoch_12
+alpha:tensor([0.5464], device='cuda:0', requires_grad=True)
+PSNR:12.409408095855163
+SSIM:0.5449143052101135
+
+imgDICM_09Epoch_13
+alpha:tensor([0.5265], device='cuda:0', requires_grad=True)
+PSNR:12.424955726263056
+SSIM:0.5455832481384277
+
+imgDICM_09Epoch_14
+alpha:tensor([0.5073], device='cuda:0', requires_grad=True)
+PSNR:12.569595627984182
+SSIM:0.5487465262413025
+
+imgDICM_09Epoch_15
+alpha:tensor([0.4871], device='cuda:0', requires_grad=True)
+PSNR:12.80351580434085
+SSIM:0.5536044836044312
+
+imgDICM_09Epoch_16
+alpha:tensor([0.4849], device='cuda:0', requires_grad=True)
+PSNR:12.921431190332962
+SSIM:0.5557199716567993
+
+imgDICM_10Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:12.766390747775699
+SSIM:0.42094314098358154
+
+imgDICM_10Epoch_3
+alpha:tensor([0.6623], device='cuda:0', requires_grad=True)
+PSNR:12.910133965891353
+SSIM:0.4362891614437103
+
+imgDICM_10Epoch_4
+alpha:tensor([0.6241], device='cuda:0', requires_grad=True)
+PSNR:13.375584008988072
+SSIM:0.4300726354122162
+
+imgDICM_10Epoch_5
+alpha:tensor([0.5864], device='cuda:0', requires_grad=True)
+PSNR:13.663748123980703
+SSIM:0.4388488531112671
+
+imgDICM_10Epoch_6
+alpha:tensor([0.5511], device='cuda:0', requires_grad=True)
+PSNR:13.87064985116436
+SSIM:0.43943434953689575
+
+imgDICM_10Epoch_7
+alpha:tensor([0.5205], device='cuda:0', requires_grad=True)
+PSNR:13.874274927031415
+SSIM:0.4440922141075134
+
+imgDICM_10Epoch_8
+alpha:tensor([0.4936], device='cuda:0', requires_grad=True)
+PSNR:13.903377034190875
+SSIM:0.445303350687027
+
+imgDICM_10Epoch_9
+alpha:tensor([0.4678], device='cuda:0', requires_grad=True)
+PSNR:14.035868693620323
+SSIM:0.4588387608528137
+
+imgDICM_10Epoch_11
+alpha:tensor([0.4206], device='cuda:0', requires_grad=True)
+PSNR:14.253431567830248
+SSIM:0.4802216589450836
+
+imgDICM_10Epoch_13
+alpha:tensor([0.3788], device='cuda:0', requires_grad=True)
+PSNR:14.31988346412889
+SSIM:0.4815680682659149
+
+imgDICM_10Epoch_14
+alpha:tensor([0.3566], device='cuda:0', requires_grad=True)
+PSNR:14.513162319355166
+SSIM:0.4760255515575409
+
+imgDICM_10Epoch_15
+alpha:tensor([0.3343], device='cuda:0', requires_grad=True)
+PSNR:14.655137817017305
+SSIM:0.4762594997882843
+
+imgDICM_10Epoch_16
+alpha:tensor([0.3321], device='cuda:0', requires_grad=True)
+PSNR:14.677815600263461
+SSIM:0.47520339488983154
+
+imgDICM_10Epoch_17
+alpha:tensor([0.3298], device='cuda:0', requires_grad=True)
+PSNR:14.734421876259889
+SSIM:0.4833424389362335
+
+imgDICM_10Epoch_26
+alpha:tensor([0.3114], device='cuda:0', requires_grad=True)
+PSNR:14.741950128633608
+SSIM:0.477031946182251
+
+imgDICM_10Epoch_27
+alpha:tensor([0.3095], device='cuda:0', requires_grad=True)
+PSNR:14.741998821266025
+SSIM:0.47688713669776917
+
+imgDICM_10Epoch_30
+alpha:tensor([0.3039], device='cuda:0', requires_grad=True)
+PSNR:14.790408031084878
+SSIM:0.4694395065307617
+
+imgDICM_11Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.514428638326901
+SSIM:0.43618741631507874
+
+imgDICM_11Epoch_3
+alpha:tensor([0.6523], device='cuda:0', requires_grad=True)
+PSNR:14.051662135530346
+SSIM:0.44718289375305176
+
+imgDICM_11Epoch_4
+alpha:tensor([0.6124], device='cuda:0', requires_grad=True)
+PSNR:14.251210008866465
+SSIM:0.4593656063079834
+
+imgDICM_11Epoch_5
+alpha:tensor([0.5715], device='cuda:0', requires_grad=True)
+PSNR:14.769075797953686
+SSIM:0.46637865900993347
+
+imgDICM_11Epoch_6
+alpha:tensor([0.5311], device='cuda:0', requires_grad=True)
+PSNR:15.103011432363065
+SSIM:0.47076931595802307
+
+imgDICM_11Epoch_7
+alpha:tensor([0.4928], device='cuda:0', requires_grad=True)
+PSNR:15.387721122200064
+SSIM:0.47319167852401733
+
+imgDICM_11Epoch_8
+alpha:tensor([0.4570], device='cuda:0', requires_grad=True)
+PSNR:15.511625032795793
+SSIM:0.47476112842559814
+
+imgDICM_11Epoch_9
+alpha:tensor([0.4242], device='cuda:0', requires_grad=True)
+PSNR:15.617988509477899
+SSIM:0.4795193672180176
+
+imgDICM_11Epoch_10
+alpha:tensor([0.3919], device='cuda:0', requires_grad=True)
+PSNR:15.820663095538364
+SSIM:0.4804709255695343
+
+imgDICM_11Epoch_11
+alpha:tensor([0.3616], device='cuda:0', requires_grad=True)
+PSNR:15.94456183717874
+SSIM:0.4825034737586975
+
+imgDICM_11Epoch_12
+alpha:tensor([0.3312], device='cuda:0', requires_grad=True)
+PSNR:16.14892762698692
+SSIM:0.4829185903072357
+
+imgDICM_11Epoch_14
+alpha:tensor([0.2766], device='cuda:0', requires_grad=True)
+PSNR:16.36242718349979
+SSIM:0.4911443591117859
+
+imgDICM_11Epoch_15
+alpha:tensor([0.2493], device='cuda:0', requires_grad=True)
+PSNR:16.50813650629878
+SSIM:0.49128031730651855
+
+imgDICM_11Epoch_16
+alpha:tensor([0.2467], device='cuda:0', requires_grad=True)
+PSNR:16.5875186631806
+SSIM:0.4907604455947876
+
+imgDICM_11Epoch_17
+alpha:tensor([0.2440], device='cuda:0', requires_grad=True)
+PSNR:16.588214813618052
+SSIM:0.4900245666503906
+
+imgDICM_11Epoch_18
+alpha:tensor([0.2412], device='cuda:0', requires_grad=True)
+PSNR:16.728488075518197
+SSIM:0.48851943016052246
+
+imgDICM_11Epoch_20
+alpha:tensor([0.2355], device='cuda:0', requires_grad=True)
+PSNR:16.81359474686593
+SSIM:0.48854485154151917
+
+imgDICM_12Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:18.026438893594605
+SSIM:0.09731307625770569
+
+imgDICM_12Epoch_3
+alpha:tensor([0.6593], device='cuda:0', requires_grad=True)
+PSNR:18.0762598729605
+SSIM:0.09984463453292847
+
+imgDICM_13Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:15.718966723749181
+SSIM:0.1465403288602829
+
+imgDICM_13Epoch_3
+alpha:tensor([0.6499], device='cuda:0', requires_grad=True)
+PSNR:16.12803043499703
+SSIM:0.151986762881279
+
+imgDICM_13Epoch_4
+alpha:tensor([0.6002], device='cuda:0', requires_grad=True)
+PSNR:16.60934629136776
+SSIM:0.15777988731861115
+
+imgDICM_13Epoch_5
+alpha:tensor([0.5550], device='cuda:0', requires_grad=True)
+PSNR:16.867754085667485
+SSIM:0.16117584705352783
+
+imgDICM_13Epoch_7
+alpha:tensor([0.4828], device='cuda:0', requires_grad=True)
+PSNR:16.91568258742127
+SSIM:0.16223189234733582
+
+imgDICM_14Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:12.95292156687378
+SSIM:0.1032899022102356
+
+imgDICM_14Epoch_3
+alpha:tensor([0.8186], device='cuda:0', requires_grad=True)
+PSNR:13.531043502526616
+SSIM:0.10879351198673248
+
+imgDICM_14Epoch_5
+alpha:tensor([0.8136], device='cuda:0', requires_grad=True)
+PSNR:14.112656367745384
+SSIM:0.11483084410429001
+
+imgDICM_14Epoch_6
+alpha:tensor([0.7978], device='cuda:0', requires_grad=True)
+PSNR:14.239421357670706
+SSIM:0.11633777618408203
+
+imgDICM_14Epoch_7
+alpha:tensor([0.7727], device='cuda:0', requires_grad=True)
+PSNR:14.703166556451183
+SSIM:0.12144444137811661
+
+imgDICM_14Epoch_8
+alpha:tensor([0.7509], device='cuda:0', requires_grad=True)
+PSNR:14.951921136586925
+SSIM:0.12431144714355469
+
+imgDICM_14Epoch_9
+alpha:tensor([0.7334], device='cuda:0', requires_grad=True)
+PSNR:15.055381306177233
+SSIM:0.1255628764629364
+
+imgDICM_14Epoch_10
+alpha:tensor([0.7058], device='cuda:0', requires_grad=True)
+PSNR:15.608193857952553
+SSIM:0.13133394718170166
+
+imgDICM_14Epoch_11
+alpha:tensor([0.6785], device='cuda:0', requires_grad=True)
+PSNR:15.833062115984436
+SSIM:0.13391847908496857
+
+imgDICM_14Epoch_12
+alpha:tensor([0.6483], device='cuda:0', requires_grad=True)
+PSNR:16.177212221362375
+SSIM:0.13782311975955963
+
+imgDICM_14Epoch_13
+alpha:tensor([0.6205], device='cuda:0', requires_grad=True)
+PSNR:16.374872899286355
+SSIM:0.140115424990654
+
+imgDICM_14Epoch_14
+alpha:tensor([0.5858], device='cuda:0', requires_grad=True)
+PSNR:16.790339810201893
+SSIM:0.14485710859298706
+
+imgDICM_14Epoch_15
+alpha:tensor([0.5556], device='cuda:0', requires_grad=True)
+PSNR:16.86558103099532
+SSIM:0.14570705592632294
+
+imgDICM_14Epoch_16
+alpha:tensor([0.5526], device='cuda:0', requires_grad=True)
+PSNR:16.967665693568843
+SSIM:0.14669473469257355
+
+imgDICM_15Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:12.821545355121657
+SSIM:0.4326094090938568
+
+imgDICM_15Epoch_3
+alpha:tensor([0.6514], device='cuda:0', requires_grad=True)
+PSNR:13.17240346068439
+SSIM:0.4500103294849396
+
+imgDICM_15Epoch_4
+alpha:tensor([0.6132], device='cuda:0', requires_grad=True)
+PSNR:13.296294828410822
+SSIM:0.45234277844429016
+
+imgDICM_15Epoch_5
+alpha:tensor([0.5756], device='cuda:0', requires_grad=True)
+PSNR:13.602714123770724
+SSIM:0.45421141386032104
+
+imgDICM_15Epoch_6
+alpha:tensor([0.5434], device='cuda:0', requires_grad=True)
+PSNR:13.65414115208555
+SSIM:0.451852023601532
+
+imgDICM_15Epoch_7
+alpha:tensor([0.5138], device='cuda:0', requires_grad=True)
+PSNR:13.803421020517352
+SSIM:0.4512191414833069
+
+imgDICM_15Epoch_8
+alpha:tensor([0.4840], device='cuda:0', requires_grad=True)
+PSNR:14.012836528912729
+SSIM:0.4531795382499695
+
+imgDICM_15Epoch_9
+alpha:tensor([0.4537], device='cuda:0', requires_grad=True)
+PSNR:14.204820000231464
+SSIM:0.45905181765556335
+
+imgDICM_15Epoch_10
+alpha:tensor([0.4238], device='cuda:0', requires_grad=True)
+PSNR:14.365546635382369
+SSIM:0.46316057443618774
+
+imgDICM_15Epoch_11
+alpha:tensor([0.3966], device='cuda:0', requires_grad=True)
+PSNR:14.424775142406737
+SSIM:0.4629247486591339
+
+imgDICM_15Epoch_12
+alpha:tensor([0.3703], device='cuda:0', requires_grad=True)
+PSNR:14.545538657605768
+SSIM:0.4703158438205719
+
+imgDICM_15Epoch_13
+alpha:tensor([0.3447], device='cuda:0', requires_grad=True)
+PSNR:14.656370431967057
+SSIM:0.4697245955467224
+
+imgDICM_15Epoch_14
+alpha:tensor([0.3187], device='cuda:0', requires_grad=True)
+PSNR:14.792434603371492
+SSIM:0.4692956805229187
+
+imgDICM_15Epoch_15
+alpha:tensor([0.2949], device='cuda:0', requires_grad=True)
+PSNR:14.834178767492421
+SSIM:0.47055116295814514
+
+imgDICM_15Epoch_16
+alpha:tensor([0.2924], device='cuda:0', requires_grad=True)
+PSNR:14.873050423884793
+SSIM:0.4774112403392792
+
+imgDICM_15Epoch_17
+alpha:tensor([0.2899], device='cuda:0', requires_grad=True)
+PSNR:14.909176691455066
+SSIM:0.47810420393943787
+
+imgDICM_15Epoch_22
+alpha:tensor([0.2787], device='cuda:0', requires_grad=True)
+PSNR:14.91282219858551
+SSIM:0.476497620344162
+
+imgDICM_15Epoch_23
+alpha:tensor([0.2762], device='cuda:0', requires_grad=True)
+PSNR:14.935299038483365
+SSIM:0.4761814773082733
+
+imgDICM_15Epoch_24
+alpha:tensor([0.2736], device='cuda:0', requires_grad=True)
+PSNR:14.948215375328832
+SSIM:0.4780593514442444
+
+imgDICM_15Epoch_25
+alpha:tensor([0.2707], device='cuda:0', requires_grad=True)
+PSNR:15.018987859420756
+SSIM:0.4829426407814026
+
+imgDICM_16Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:12.889779125420429
+SSIM:0.45780736207962036
+
+imgDICM_16Epoch_3
+alpha:tensor([0.6515], device='cuda:0', requires_grad=True)
+PSNR:13.136099156590763
+SSIM:0.46479663252830505
+
+imgDICM_16Epoch_4
+alpha:tensor([0.6108], device='cuda:0', requires_grad=True)
+PSNR:13.451179810812668
+SSIM:0.4735396206378937
+
+imgDICM_16Epoch_5
+alpha:tensor([0.5764], device='cuda:0', requires_grad=True)
+PSNR:13.614761679089792
+SSIM:0.4780224859714508
+
+imgDICM_16Epoch_6
+alpha:tensor([0.5470], device='cuda:0', requires_grad=True)
+PSNR:13.714605341142034
+SSIM:0.48096659779548645
+
+imgDICM_16Epoch_7
+alpha:tensor([0.5195], device='cuda:0', requires_grad=True)
+PSNR:13.862952364119446
+SSIM:0.4839940071105957
+
+imgDICM_16Epoch_10
+alpha:tensor([0.4528], device='cuda:0', requires_grad=True)
+PSNR:14.017328094198888
+SSIM:0.48745906352996826
+
+imgDICM_16Epoch_11
+alpha:tensor([0.4298], device='cuda:0', requires_grad=True)
+PSNR:14.175477771104859
+SSIM:0.4909348785877228
+
+imgDICM_16Epoch_13
+alpha:tensor([0.3895], device='cuda:0', requires_grad=True)
+PSNR:14.295752402138975
+SSIM:0.49378880858421326
+
+imgDICM_16Epoch_14
+alpha:tensor([0.3714], device='cuda:0', requires_grad=True)
+PSNR:14.305433912648253
+SSIM:0.4942789077758789
+
+imgDICM_16Epoch_16
+alpha:tensor([0.3542], device='cuda:0', requires_grad=True)
+PSNR:14.331891988202877
+SSIM:0.49511173367500305
+
+imgDICM_16Epoch_18
+alpha:tensor([0.3513], device='cuda:0', requires_grad=True)
+PSNR:14.372011533503867
+SSIM:0.49613499641418457
+
+imgDICM_16Epoch_20
+alpha:tensor([0.3482], device='cuda:0', requires_grad=True)
+PSNR:14.465897274415598
+SSIM:0.49717506766319275
+
+imgDICM_16Epoch_25
+alpha:tensor([0.3412], device='cuda:0', requires_grad=True)
+PSNR:14.48269384175591
+SSIM:0.4982840418815613
+
+imgDICM_16Epoch_28
+alpha:tensor([0.3368], device='cuda:0', requires_grad=True)
+PSNR:14.487519756074683
+SSIM:0.4981013834476471
+
+imgDICM_16Epoch_30
+alpha:tensor([0.3339], device='cuda:0', requires_grad=True)
+PSNR:14.496228594717843
+SSIM:0.49839743971824646
+
+imgDICM_17Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:12.845987889403537
+SSIM:0.24749594926834106
+
+imgDICM_17Epoch_4
+alpha:tensor([0.6344], device='cuda:0', requires_grad=True)
+PSNR:12.970562200998932
+SSIM:0.25442641973495483
+
+imgDICM_17Epoch_5
+alpha:tensor([0.5993], device='cuda:0', requires_grad=True)
+PSNR:13.448576497817497
+SSIM:0.2635621130466461
+
+imgDICM_17Epoch_6
+alpha:tensor([0.5633], device='cuda:0', requires_grad=True)
+PSNR:13.789103512236682
+SSIM:0.2698719799518585
+
+imgDICM_17Epoch_12
+alpha:tensor([0.4260], device='cuda:0', requires_grad=True)
+PSNR:13.990257943814267
+SSIM:0.27709585428237915
+
+imgDICM_17Epoch_13
+alpha:tensor([0.4042], device='cuda:0', requires_grad=True)
+PSNR:14.226040520307102
+SSIM:0.28032514452934265
+
+imgDICM_17Epoch_14
+alpha:tensor([0.3845], device='cuda:0', requires_grad=True)
+PSNR:14.245394030461098
+SSIM:0.2818850874900818
+
+imgDICM_17Epoch_15
+alpha:tensor([0.3646], device='cuda:0', requires_grad=True)
+PSNR:14.412111022245604
+SSIM:0.28590330481529236
+
+imgDICM_17Epoch_16
+alpha:tensor([0.3624], device='cuda:0', requires_grad=True)
+PSNR:14.526312173295445
+SSIM:0.2861475944519043
+
+imgDICM_18Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:19.491917722526114
+SSIM:0.09029317647218704
+
+imgDICM_18Epoch_3
+alpha:tensor([0.7128], device='cuda:0', requires_grad=True)
+PSNR:20.598552424561326
+SSIM:0.09868010133504868
+
+imgDICM_18Epoch_4
+alpha:tensor([0.6840], device='cuda:0', requires_grad=True)
+PSNR:20.707576250621187
+SSIM:0.09962519258260727
+
+imgDICM_18Epoch_5
+alpha:tensor([0.6592], device='cuda:0', requires_grad=True)
+PSNR:21.014580038436954
+SSIM:0.10228231549263
+
+imgDICM_18Epoch_6
+alpha:tensor([0.6383], device='cuda:0', requires_grad=True)
+PSNR:21.09993562339604
+SSIM:0.10297804325819016
+
+imgDICM_18Epoch_7
+alpha:tensor([0.6202], device='cuda:0', requires_grad=True)
+PSNR:21.19930247458648
+SSIM:0.10372940450906754
+
+imgDICM_18Epoch_11
+alpha:tensor([0.5704], device='cuda:0', requires_grad=True)
+PSNR:21.216453306969715
+SSIM:0.10355318337678909
+
+imgDICM_18Epoch_12
+alpha:tensor([0.5612], device='cuda:0', requires_grad=True)
+PSNR:21.269960181181162
+SSIM:0.10400991141796112
+
+imgDICM_18Epoch_13
+alpha:tensor([0.5512], device='cuda:0', requires_grad=True)
+PSNR:21.489558415707876
+SSIM:0.10565996170043945
+
+imgDICM_18Epoch_14
+alpha:tensor([0.5422], device='cuda:0', requires_grad=True)
+PSNR:21.510117101691527
+SSIM:0.10583416372537613
+
+imgDICM_18Epoch_16
+alpha:tensor([0.5332], device='cuda:0', requires_grad=True)
+PSNR:21.65513133071424
+SSIM:0.10695037990808487
+
+imgDICM_18Epoch_18
+alpha:tensor([0.5312], device='cuda:0', requires_grad=True)
+PSNR:21.877022044230998
+SSIM:0.10874567925930023
+
+imgDICM_18Epoch_19
+alpha:tensor([0.5299], device='cuda:0', requires_grad=True)
+PSNR:22.001320035296445
+SSIM:0.10984469205141068
+
+imgDICM_19Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:9.474226491758266
+SSIM:0.21825063228607178
+
+imgDICM_19Epoch_4
+alpha:tensor([0.8254], device='cuda:0', requires_grad=True)
+PSNR:10.00909218526765
+SSIM:0.2234618365764618
+
+imgDICM_19Epoch_5
+alpha:tensor([0.7989], device='cuda:0', requires_grad=True)
+PSNR:10.648272541910874
+SSIM:0.23768474161624908
+
+imgDICM_19Epoch_6
+alpha:tensor([0.7731], device='cuda:0', requires_grad=True)
+PSNR:10.96131755040818
+SSIM:0.24639031291007996
+
+imgDICM_19Epoch_7
+alpha:tensor([0.7425], device='cuda:0', requires_grad=True)
+PSNR:11.563368368890208
+SSIM:0.2603354752063751
+
+imgDICM_19Epoch_8
+alpha:tensor([0.7057], device='cuda:0', requires_grad=True)
+PSNR:12.123787036552983
+SSIM:0.27207717299461365
+
+imgDICM_19Epoch_9
+alpha:tensor([0.6705], device='cuda:0', requires_grad=True)
+PSNR:12.426290626306711
+SSIM:0.28034359216690063
+
+imgDICM_19Epoch_10
+alpha:tensor([0.6384], device='cuda:0', requires_grad=True)
+PSNR:12.657403412900907
+SSIM:0.28688758611679077
+
+imgDICM_19Epoch_11
+alpha:tensor([0.6073], device='cuda:0', requires_grad=True)
+PSNR:12.96574328046129
+SSIM:0.2943384647369385
+
+imgDICM_19Epoch_12
+alpha:tensor([0.5762], device='cuda:0', requires_grad=True)
+PSNR:13.244698923538786
+SSIM:0.30060216784477234
+
+imgDICM_19Epoch_13
+alpha:tensor([0.5426], device='cuda:0', requires_grad=True)
+PSNR:13.54481004154027
+SSIM:0.30761629343032837
+
+imgDICM_19Epoch_14
+alpha:tensor([0.5096], device='cuda:0', requires_grad=True)
+PSNR:13.783134228650894
+SSIM:0.31283044815063477
+
+imgDICM_19Epoch_15
+alpha:tensor([0.4793], device='cuda:0', requires_grad=True)
+PSNR:13.852753175516321
+SSIM:0.3152821958065033
+
+imgDICM_19Epoch_16
+alpha:tensor([0.4763], device='cuda:0', requires_grad=True)
+PSNR:13.897726989561024
+SSIM:0.3163091540336609
+
+imgDICM_19Epoch_17
+alpha:tensor([0.4733], device='cuda:0', requires_grad=True)
+PSNR:13.985871641590924
+SSIM:0.31772470474243164
+
+imgDICM_19Epoch_20
+alpha:tensor([0.4648], device='cuda:0', requires_grad=True)
+PSNR:14.03853501142068
+SSIM:0.31889820098876953
+
+imgDICM_19Epoch_27
+alpha:tensor([0.4479], device='cuda:0', requires_grad=True)
+PSNR:14.057910293538809
+SSIM:0.32043227553367615
+
+imgDICM_20Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:13.766507270061034
+SSIM:0.16119827330112457
+
+imgDICM_20Epoch_4
+alpha:tensor([0.8380], device='cuda:0', requires_grad=True)
+PSNR:14.031908923809478
+SSIM:0.16403120756149292
+
+imgDICM_20Epoch_5
+alpha:tensor([0.8126], device='cuda:0', requires_grad=True)
+PSNR:14.640914824824009
+SSIM:0.17452749609947205
+
+imgDICM_20Epoch_7
+alpha:tensor([0.7694], device='cuda:0', requires_grad=True)
+PSNR:15.056623048440198
+SSIM:0.18270546197891235
+
+imgDICM_20Epoch_8
+alpha:tensor([0.7452], device='cuda:0', requires_grad=True)
+PSNR:15.271891643132793
+SSIM:0.18674349784851074
+
+imgDICM_20Epoch_9
+alpha:tensor([0.7189], device='cuda:0', requires_grad=True)
+PSNR:15.518656271079065
+SSIM:0.19151568412780762
+
+imgDICM_20Epoch_10
+alpha:tensor([0.6963], device='cuda:0', requires_grad=True)
+PSNR:15.595105416063708
+SSIM:0.19331027567386627
+
+imgDICM_20Epoch_28
+alpha:tensor([0.6651], device='cuda:0', requires_grad=True)
+PSNR:15.616149444493498
+SSIM:0.19329597055912018
+
+imgDICM_21Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.51775176695126
+SSIM:0.24720624089241028
+
+imgDICM_21Epoch_7
+alpha:tensor([0.6016], device='cuda:0', requires_grad=True)
+PSNR:13.657062959996168
+SSIM:0.2602411210536957
+
+imgDICM_21Epoch_8
+alpha:tensor([0.5869], device='cuda:0', requires_grad=True)
+PSNR:13.676351160106893
+SSIM:0.2608777582645416
+
+imgDICM_21Epoch_9
+alpha:tensor([0.5703], device='cuda:0', requires_grad=True)
+PSNR:13.926156883064007
+SSIM:0.26512327790260315
+
+imgDICM_21Epoch_12
+alpha:tensor([0.5343], device='cuda:0', requires_grad=True)
+PSNR:14.037203902281261
+SSIM:0.26847222447395325
+
+imgDICM_21Epoch_13
+alpha:tensor([0.5215], device='cuda:0', requires_grad=True)
+PSNR:14.146839810244092
+SSIM:0.26984938979148865
+
+imgDICM_21Epoch_15
+alpha:tensor([0.4979], device='cuda:0', requires_grad=True)
+PSNR:14.275409373549017
+SSIM:0.2724895179271698
+
+imgDICM_21Epoch_28
+alpha:tensor([0.4865], device='cuda:0', requires_grad=True)
+PSNR:14.31775358360657
+SSIM:0.2732408344745636
+
+imgDICM_22Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:15.069912101060973
+SSIM:0.31358230113983154
+
+imgDICM_22Epoch_3
+alpha:tensor([0.6629], device='cuda:0', requires_grad=True)
+PSNR:15.12517554374092
+SSIM:0.31367751955986023
+
+imgDICM_22Epoch_5
+alpha:tensor([0.6033], device='cuda:0', requires_grad=True)
+PSNR:15.502565911153894
+SSIM:0.32454320788383484
+
+imgDICM_22Epoch_6
+alpha:tensor([0.5654], device='cuda:0', requires_grad=True)
+PSNR:15.949056918129871
+SSIM:0.33568134903907776
+
+imgDICM_22Epoch_7
+alpha:tensor([0.5317], device='cuda:0', requires_grad=True)
+PSNR:16.041159507215845
+SSIM:0.3378891348838806
+
+imgDICM_22Epoch_9
+alpha:tensor([0.4773], device='cuda:0', requires_grad=True)
+PSNR:16.095507709917438
+SSIM:0.3401171565055847
+
+imgDICM_22Epoch_10
+alpha:tensor([0.4538], device='cuda:0', requires_grad=True)
+PSNR:16.150936760713353
+SSIM:0.341402530670166
+
+imgDICM_22Epoch_13
+alpha:tensor([0.3991], device='cuda:0', requires_grad=True)
+PSNR:16.226939030532357
+SSIM:0.34170010685920715
+
+imgDICM_22Epoch_14
+alpha:tensor([0.3833], device='cuda:0', requires_grad=True)
+PSNR:16.260738475612328
+SSIM:0.3428851068019867
+
+imgDICM_22Epoch_15
+alpha:tensor([0.3655], device='cuda:0', requires_grad=True)
+PSNR:16.51226835277233
+SSIM:0.3490745723247528
+
+imgDICM_22Epoch_17
+alpha:tensor([0.3621], device='cuda:0', requires_grad=True)
+PSNR:16.600239527775976
+SSIM:0.3516102433204651
+
+imgDICM_22Epoch_19
+alpha:tensor([0.3587], device='cuda:0', requires_grad=True)
+PSNR:16.646328383907893
+SSIM:0.3533744513988495
+
+imgDICM_22Epoch_20
+alpha:tensor([0.3567], device='cuda:0', requires_grad=True)
+PSNR:16.799942771912594
+SSIM:0.35733717679977417
+
+imgDICM_22Epoch_28
+alpha:tensor([0.3448], device='cuda:0', requires_grad=True)
+PSNR:16.859537033732025
+SSIM:0.3564803898334503
+
+imgDICM_22Epoch_29
+alpha:tensor([0.3424], device='cuda:0', requires_grad=True)
+PSNR:16.960239726201642
+SSIM:0.3592303991317749
+
+imgDICM_23Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:13.194262734270803
+SSIM:0.3202211558818817
+
+imgDICM_23Epoch_3
+alpha:tensor([0.6562], device='cuda:0', requires_grad=True)
+PSNR:13.635602406446516
+SSIM:0.3319133520126343
+
+imgDICM_23Epoch_4
+alpha:tensor([0.6160], device='cuda:0', requires_grad=True)
+PSNR:13.977539623907694
+SSIM:0.3405809700489044
+
+imgDICM_23Epoch_5
+alpha:tensor([0.5798], device='cuda:0', requires_grad=True)
+PSNR:14.225701903868815
+SSIM:0.347993940114975
+
+imgDICM_23Epoch_6
+alpha:tensor([0.5494], device='cuda:0', requires_grad=True)
+PSNR:14.27779497876929
+SSIM:0.3499595820903778
+
+imgDICM_23Epoch_7
+alpha:tensor([0.5228], device='cuda:0', requires_grad=True)
+PSNR:14.344327082495898
+SSIM:0.35202354192733765
+
+imgDICM_23Epoch_8
+alpha:tensor([0.4924], device='cuda:0', requires_grad=True)
+PSNR:14.573493020531343
+SSIM:0.35737401247024536
+
+imgDICM_23Epoch_9
+alpha:tensor([0.4634], device='cuda:0', requires_grad=True)
+PSNR:14.727814288624987
+SSIM:0.36179450154304504
+
+imgDICM_23Epoch_10
+alpha:tensor([0.4377], device='cuda:0', requires_grad=True)
+PSNR:14.765711317007773
+SSIM:0.3628826439380646
+
+imgDICM_23Epoch_21
+alpha:tensor([0.3462], device='cuda:0', requires_grad=True)
+PSNR:14.780690123938145
+SSIM:0.36379873752593994
+
+imgDICM_23Epoch_22
+alpha:tensor([0.3450], device='cuda:0', requires_grad=True)
+PSNR:14.803627515210385
+SSIM:0.3639906644821167
+
+imgDICM_23Epoch_25
+alpha:tensor([0.3420], device='cuda:0', requires_grad=True)
+PSNR:14.839402372120906
+SSIM:0.36476579308509827
+
+imgDICM_23Epoch_27
+alpha:tensor([0.3398], device='cuda:0', requires_grad=True)
+PSNR:14.873504096887668
+SSIM:0.3653280735015869
+
+imgDICM_24Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:11.44067799379954
+SSIM:0.5050501823425293
+
+imgDICM_24Epoch_3
+alpha:tensor([0.6529], device='cuda:0', requires_grad=True)
+PSNR:11.940242593128012
+SSIM:0.5189383029937744
+
+imgDICM_24Epoch_4
+alpha:tensor([0.6060], device='cuda:0', requires_grad=True)
+PSNR:12.458700437655496
+SSIM:0.5333218574523926
+
+imgDICM_24Epoch_5
+alpha:tensor([0.5588], device='cuda:0', requires_grad=True)
+PSNR:12.833861740496605
+SSIM:0.5444791913032532
+
+imgDICM_24Epoch_6
+alpha:tensor([0.5142], device='cuda:0', requires_grad=True)
+PSNR:13.061326897528867
+SSIM:0.5511937141418457
+
+imgDICM_24Epoch_7
+alpha:tensor([0.4694], device='cuda:0', requires_grad=True)
+PSNR:13.310493494571215
+SSIM:0.5578192472457886
+
+imgDICM_24Epoch_8
+alpha:tensor([0.4244], device='cuda:0', requires_grad=True)
+PSNR:13.542377134970515
+SSIM:0.5638381242752075
+
+imgDICM_24Epoch_9
+alpha:tensor([0.3797], device='cuda:0', requires_grad=True)
+PSNR:13.767666633557688
+SSIM:0.5702329874038696
+
+imgDICM_24Epoch_10
+alpha:tensor([0.3351], device='cuda:0', requires_grad=True)
+PSNR:13.987371880133399
+SSIM:0.5763025283813477
+
+imgDICM_24Epoch_11
+alpha:tensor([0.2904], device='cuda:0', requires_grad=True)
+PSNR:14.201163761944478
+SSIM:0.5822566151618958
+
+imgDICM_24Epoch_12
+alpha:tensor([0.2505], device='cuda:0', requires_grad=True)
+PSNR:14.27241406414197
+SSIM:0.5848107933998108
+
+imgDICM_24Epoch_13
+alpha:tensor([0.2131], device='cuda:0', requires_grad=True)
+PSNR:14.389598953211415
+SSIM:0.5882370471954346
+
+imgDICM_24Epoch_14
+alpha:tensor([0.1755], device='cuda:0', requires_grad=True)
+PSNR:14.572719536937706
+SSIM:0.593375027179718
+
+imgDICM_24Epoch_15
+alpha:tensor([0.1377], device='cuda:0', requires_grad=True)
+PSNR:14.749924672662061
+SSIM:0.598287045955658
+
+imgDICM_24Epoch_16
+alpha:tensor([0.1339], device='cuda:0', requires_grad=True)
+PSNR:14.780729037893629
+SSIM:0.5990430116653442
+
+imgDICM_25Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:15.306527712057576
+SSIM:0.17812716960906982
+
+imgDICM_25Epoch_5
+alpha:tensor([0.5981], device='cuda:0', requires_grad=True)
+PSNR:15.363266897470657
+SSIM:0.17955145239830017
+
+imgDICM_25Epoch_7
+alpha:tensor([0.5401], device='cuda:0', requires_grad=True)
+PSNR:15.669516947150777
+SSIM:0.18671193718910217
+
+imgDICM_25Epoch_10
+alpha:tensor([0.4713], device='cuda:0', requires_grad=True)
+PSNR:15.801954223937507
+SSIM:0.1902414709329605
+
+imgDICM_25Epoch_13
+alpha:tensor([0.4242], device='cuda:0', requires_grad=True)
+PSNR:15.930686689535431
+SSIM:0.19064614176750183
+
+imgDICM_25Epoch_17
+alpha:tensor([0.3972], device='cuda:0', requires_grad=True)
+PSNR:16.02044291771945
+SSIM:0.1915215104818344
+
+imgDICM_25Epoch_20
+alpha:tensor([0.3935], device='cuda:0', requires_grad=True)
+PSNR:16.133285080206907
+SSIM:0.1959628313779831
+
+imgDICM_25Epoch_23
+alpha:tensor([0.3893], device='cuda:0', requires_grad=True)
+PSNR:16.248508390873795
+SSIM:0.1963939517736435
+
+imgDICM_26Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:13.968352041538006
+SSIM:0.1524709165096283
+
+imgDICM_26Epoch_4
+alpha:tensor([0.8023], device='cuda:0', requires_grad=True)
+PSNR:15.673776968510511
+SSIM:0.1674990952014923
+
+imgDICM_26Epoch_5
+alpha:tensor([0.7753], device='cuda:0', requires_grad=True)
+PSNR:16.06533324530212
+SSIM:0.1710348278284073
+
+imgDICM_26Epoch_6
+alpha:tensor([0.7528], device='cuda:0', requires_grad=True)
+PSNR:16.342874244931743
+SSIM:0.17327439785003662
+
+imgDICM_26Epoch_7
+alpha:tensor([0.7336], device='cuda:0', requires_grad=True)
+PSNR:16.578944668752086
+SSIM:0.1751192957162857
+
+imgDICM_26Epoch_8
+alpha:tensor([0.7169], device='cuda:0', requires_grad=True)
+PSNR:16.69809819695785
+SSIM:0.1760714054107666
+
+imgDICM_26Epoch_9
+alpha:tensor([0.7021], device='cuda:0', requires_grad=True)
+PSNR:16.80687953814601
+SSIM:0.17693495750427246
+
+imgDICM_26Epoch_10
+alpha:tensor([0.6875], device='cuda:0', requires_grad=True)
+PSNR:17.00366580563707
+SSIM:0.17834843695163727
+
+imgDICM_26Epoch_11
+alpha:tensor([0.6745], device='cuda:0', requires_grad=True)
+PSNR:17.107338020413614
+SSIM:0.1791299432516098
+
+imgDICM_26Epoch_12
+alpha:tensor([0.6637], device='cuda:0', requires_grad=True)
+PSNR:17.141671784106883
+SSIM:0.17936012148857117
+
+imgDICM_26Epoch_13
+alpha:tensor([0.6418], device='cuda:0', requires_grad=True)
+PSNR:17.816831624449318
+SSIM:0.18305747210979462
+
+imgDICM_26Epoch_14
+alpha:tensor([0.6221], device='cuda:0', requires_grad=True)
+PSNR:17.98434176543951
+SSIM:0.18424995243549347
+
+imgDICM_26Epoch_15
+alpha:tensor([0.6043], device='cuda:0', requires_grad=True)
+PSNR:18.13635391985144
+SSIM:0.18527665734291077
+
+imgDICM_26Epoch_19
+alpha:tensor([0.5982], device='cuda:0', requires_grad=True)
+PSNR:18.259759655470923
+SSIM:0.18583622574806213
+
+imgDICM_26Epoch_21
+alpha:tensor([0.5948], device='cuda:0', requires_grad=True)
+PSNR:18.325366908564668
+SSIM:0.18625874817371368
+
+imgDICM_27Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:15.84660939998696
+SSIM:0.08373952656984329
+
+imgDICM_27Epoch_5
+alpha:tensor([0.8597], device='cuda:0', requires_grad=True)
+PSNR:16.545064501822793
+SSIM:0.08597894757986069
+
+imgDICM_27Epoch_6
+alpha:tensor([0.8477], device='cuda:0', requires_grad=True)
+PSNR:16.56242313772525
+SSIM:0.08646097779273987
+
+imgDICM_27Epoch_8
+alpha:tensor([0.8358], device='cuda:0', requires_grad=True)
+PSNR:16.567192263189362
+SSIM:0.08672922849655151
+
+imgDICM_27Epoch_9
+alpha:tensor([0.8305], device='cuda:0', requires_grad=True)
+PSNR:16.687462187164268
+SSIM:0.08750702440738678
+
+imgDICM_27Epoch_10
+alpha:tensor([0.8258], device='cuda:0', requires_grad=True)
+PSNR:16.731747920908244
+SSIM:0.08782059699296951
+
+imgDICM_27Epoch_12
+alpha:tensor([0.8187], device='cuda:0', requires_grad=True)
+PSNR:16.780457764859896
+SSIM:0.08835451304912567
+
+imgDICM_28Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:11.564171244890897
+SSIM:0.4005666971206665
+
+imgDICM_28Epoch_3
+alpha:tensor([0.6513], device='cuda:0', requires_grad=True)
+PSNR:11.976139590099656
+SSIM:0.40943440794944763
+
+imgDICM_28Epoch_4
+alpha:tensor([0.6020], device='cuda:0', requires_grad=True)
+PSNR:12.529922981372907
+SSIM:0.42202305793762207
+
+imgDICM_28Epoch_5
+alpha:tensor([0.5576], device='cuda:0', requires_grad=True)
+PSNR:12.7754598288435
+SSIM:0.42754554748535156
+
+imgDICM_28Epoch_6
+alpha:tensor([0.5123], device='cuda:0', requires_grad=True)
+PSNR:13.054702780346082
+SSIM:0.43294548988342285
+
+imgDICM_28Epoch_7
+alpha:tensor([0.4657], device='cuda:0', requires_grad=True)
+PSNR:13.341041659843903
+SSIM:0.4406105875968933
+
+imgDICM_28Epoch_8
+alpha:tensor([0.4221], device='cuda:0', requires_grad=True)
+PSNR:13.525258790989927
+SSIM:0.4440142810344696
+
+imgDICM_28Epoch_9
+alpha:tensor([0.3852], device='cuda:0', requires_grad=True)
+PSNR:13.525641696991123
+SSIM:0.4448997676372528
+
+imgDICM_28Epoch_12
+alpha:tensor([0.3011], device='cuda:0', requires_grad=True)
+PSNR:13.610833267624864
+SSIM:0.4460861384868622
+
+imgDICM_28Epoch_13
+alpha:tensor([0.2754], device='cuda:0', requires_grad=True)
+PSNR:13.775589011843358
+SSIM:0.4500056505203247
+
+imgDICM_28Epoch_14
+alpha:tensor([0.2533], device='cuda:0', requires_grad=True)
+PSNR:13.778955971847806
+SSIM:0.4501834511756897
+
+imgDICM_28Epoch_17
+alpha:tensor([0.2301], device='cuda:0', requires_grad=True)
+PSNR:14.049037891174137
+SSIM:0.4570739269256592
+
+imgDICM_28Epoch_18
+alpha:tensor([0.2277], device='cuda:0', requires_grad=True)
+PSNR:14.053866196245885
+SSIM:0.45801684260368347
+
+imgDICM_28Epoch_23
+alpha:tensor([0.2181], device='cuda:0', requires_grad=True)
+PSNR:14.070456771979698
+SSIM:0.4577157497406006
+
+imgDICM_28Epoch_24
+alpha:tensor([0.2156], device='cuda:0', requires_grad=True)
+PSNR:14.112297701433276
+SSIM:0.4586661159992218
+
+imgDICM_28Epoch_25
+alpha:tensor([0.2130], device='cuda:0', requires_grad=True)
+PSNR:14.16960675555056
+SSIM:0.45962464809417725
+
+imgDICM_28Epoch_26
+alpha:tensor([0.2098], device='cuda:0', requires_grad=True)
+PSNR:14.344330161961343
+SSIM:0.4639623761177063
+
+imgDICM_28Epoch_27
+alpha:tensor([0.2061], device='cuda:0', requires_grad=True)
+PSNR:14.455515526259873
+SSIM:0.46624860167503357
+
+imgDICM_28Epoch_28
+alpha:tensor([0.2022], device='cuda:0', requires_grad=True)
+PSNR:14.535811329961724
+SSIM:0.46777310967445374
+
+imgDICM_18Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:19.491917722526114
+SSIM:0.09029317647218704
+
+imgDICM_19Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:10.842640609345784
+SSIM:0.24344709515571594
+
+imgDICM_20Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:14.820929435578885
+SSIM:0.17525529861450195
+
+imgDICM_21Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:11.926725799164068
+SSIM:0.21529754996299744
+
+imgDICM_22Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:12.980049982904202
+SSIM:0.2572050094604492
+
+imgDICM_23Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:11.463622373992681
+SSIM:0.2683970630168915
+
+imgDICM_24Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:9.981152869706998
+SSIM:0.46079620718955994
+
+imgDICM_25Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:13.509038372509902
+SSIM:0.14500238001346588
+
+imgDICM_26Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:15.778610669064186
+SSIM:0.1702088862657547
+
+imgDICM_27Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:17.573123371675553
+SSIM:0.09397922456264496
+
+imgDICM_28Epoch_2
+alpha:tensor([0.7500], device='cuda:0', requires_grad=True)
+PSNR:9.79414986546081
+SSIM:0.36031055450439453
+
+imgDICM_01Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:27.1808223201959
+SSIM:0.9248327612876892
+
+imgDICM_01Epoch_3
+alpha:tensor([0.6665], device='cuda:0', requires_grad=True)
+PSNR:28.079792048493335
+SSIM:0.9441932439804077
+
+imgDICM_01Epoch_4
+alpha:tensor([0.6406], device='cuda:0', requires_grad=True)
+PSNR:28.2032417433931
+SSIM:0.9675158858299255
+
+imgDICM_01Epoch_5
+alpha:tensor([0.6205], device='cuda:0', requires_grad=True)
+PSNR:28.722505818286457
+SSIM:0.9760928750038147
+
+imgDICM_01Epoch_22
+alpha:tensor([0.4836], device='cuda:0', requires_grad=True)
+PSNR:29.044994669294933
+SSIM:0.9340356588363647
+
+imgDICM_02Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:27.949315754768804
+SSIM:0.9724758267402649
+
+imgDICM_03Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:24.96152602349313
+SSIM:0.8826724290847778
+
+imgDICM_03Epoch_3
+alpha:tensor([0.7637], device='cuda:0', requires_grad=True)
+PSNR:33.60971182681899
+SSIM:0.9500463008880615
+
+imgDICM_04Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.318724122239175
+SSIM:0.8907758593559265
+
+imgDICM_05Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.102903331915286
+SSIM:0.7585805058479309
+
+imgDICM_05Epoch_3
+alpha:tensor([0.6701], device='cuda:0', requires_grad=True)
+PSNR:25.416065880748306
+SSIM:0.6285722851753235
+
+imgDICM_05Epoch_4
+alpha:tensor([0.6504], device='cuda:0', requires_grad=True)
+PSNR:26.276556868356643
+SSIM:0.7667216658592224
+
+imgDICM_06Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:24.490293674786937
+SSIM:0.9248334765434265
+
+imgDICM_06Epoch_4
+alpha:tensor([0.8579], device='cuda:0', requires_grad=True)
+PSNR:24.855562853840574
+SSIM:0.9430484175682068
+
+imgDICM_06Epoch_7
+alpha:tensor([0.8610], device='cuda:0', requires_grad=True)
+PSNR:26.46470778989447
+SSIM:0.9559682011604309
+
+imgDICM_06Epoch_8
+alpha:tensor([0.8466], device='cuda:0', requires_grad=True)
+PSNR:27.982072049698267
+SSIM:0.9621729254722595
+
+imgDICM_06Epoch_9
+alpha:tensor([0.8243], device='cuda:0', requires_grad=True)
+PSNR:31.53762257814003
+SSIM:0.9709702134132385
+
+imgDICM_06Epoch_10
+alpha:tensor([0.7960], device='cuda:0', requires_grad=True)
+PSNR:38.107630451587546
+SSIM:0.9778801798820496
+
+imgDICM_06Epoch_11
+alpha:tensor([0.7621], device='cuda:0', requires_grad=True)
+PSNR:38.895532929143876
+SSIM:0.9831860661506653
+
+imgDICM_07Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.250839397461803
+SSIM:0.7262585759162903
+
+imgDICM_09Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.82108560125986
+SSIM:0.9717828035354614
+
+imgDICM_10Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:20.764430649048574
+SSIM:0.7224183678627014
+
+imgDICM_11Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:21.138815211972393
+SSIM:0.8710941672325134
+
+imgDICM_12Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:30.233930898231478
+SSIM:0.7027407884597778
+
+imgDICM_12Epoch_5
+alpha:tensor([0.8525], device='cuda:0', requires_grad=True)
+PSNR:32.17908263801433
+SSIM:0.8174284100532532
+
+imgDICM_12Epoch_12
+alpha:tensor([0.8403], device='cuda:0', requires_grad=True)
+PSNR:32.35247873598266
+SSIM:0.8242964744567871
+
+imgDICM_12Epoch_13
+alpha:tensor([0.8344], device='cuda:0', requires_grad=True)
+PSNR:32.966934514791404
+SSIM:0.8400933146476746
+
+imgDICM_12Epoch_14
+alpha:tensor([0.8291], device='cuda:0', requires_grad=True)
+PSNR:33.54426034614923
+SSIM:0.8531689643859863
+
+imgDICM_12Epoch_15
+alpha:tensor([0.8243], device='cuda:0', requires_grad=True)
+PSNR:34.09839287708317
+SSIM:0.8628581166267395
+
+imgDICM_12Epoch_16
+alpha:tensor([0.8238], device='cuda:0', requires_grad=True)
+PSNR:34.26801044860239
+SSIM:0.8741340041160583
+
+imgDICM_12Epoch_17
+alpha:tensor([0.8228], device='cuda:0', requires_grad=True)
+PSNR:35.251070688713455
+SSIM:0.883432924747467
+
+imgDICM_12Epoch_18
+alpha:tensor([0.8219], device='cuda:0', requires_grad=True)
+PSNR:35.39495011460229
+SSIM:0.8945984840393066
+
+imgDICM_13Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:26.875831179357903
+SSIM:0.9025325775146484
+
+imgDICM_13Epoch_3
+alpha:tensor([0.8018], device='cuda:0', requires_grad=True)
+PSNR:34.6275643472434
+SSIM:0.9367672204971313
+
+imgDICM_13Epoch_11
+alpha:tensor([0.7983], device='cuda:0', requires_grad=True)
+PSNR:38.09255137333534
+SSIM:0.9613378643989563
+
+imgDICM_13Epoch_12
+alpha:tensor([0.7789], device='cuda:0', requires_grad=True)
+PSNR:40.964548013564766
+SSIM:0.9668888449668884
+
+imgDICM_13Epoch_14
+alpha:tensor([0.7606], device='cuda:0', requires_grad=True)
+PSNR:41.47359488159011
+SSIM:0.9637330174446106
+
+imgDICM_13Epoch_15
+alpha:tensor([0.7529], device='cuda:0', requires_grad=True)
+PSNR:42.26346160342374
+SSIM:0.9680768251419067
+
+imgDICM_13Epoch_17
+alpha:tensor([0.7507], device='cuda:0', requires_grad=True)
+PSNR:42.54957536905762
+SSIM:0.9737435579299927
+
+imgDICM_13Epoch_18
+alpha:tensor([0.7503], device='cuda:0', requires_grad=True)
+PSNR:43.658788526444425
+SSIM:0.9740937352180481
+
+imgDICM_13Epoch_20
+alpha:tensor([0.7490], device='cuda:0', requires_grad=True)
+PSNR:43.932799153682566
+SSIM:0.9770478010177612
+
+imgDICM_14Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:29.677338610678223
+SSIM:0.9620233178138733
+
+imgDICM_14Epoch_3
+alpha:tensor([0.6878], device='cuda:0', requires_grad=True)
+PSNR:36.311767307873744
+SSIM:0.9317983984947205
+
+imgDICM_15Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:21.668249635368667
+SSIM:0.8167575597763062
+
+imgDICM_16Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.3477611385555
+SSIM:0.9472763538360596
+
+imgDICM_17Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:23.43690817057615
+SSIM:0.845483124256134
+
+imgDICM_17Epoch_3
+alpha:tensor([0.7800], device='cuda:0', requires_grad=True)
+PSNR:34.180027869986645
+SSIM:0.916577160358429
+
+imgDICM_19Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:23.800197374818232
+SSIM:0.9244265556335449
+
+imgDICM_19Epoch_3
+alpha:tensor([0.7954], device='cuda:0', requires_grad=True)
+PSNR:30.85358416090123
+SSIM:0.9491064548492432
+
+imgDICM_19Epoch_6
+alpha:tensor([0.7810], device='cuda:0', requires_grad=True)
+PSNR:38.862006649750725
+SSIM:0.9751535654067993
+
+imgDICM_20Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:25.869745214086546
+SSIM:0.8549983501434326
+
+imgDICM_21Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:24.053471312344517
+SSIM:0.8531816005706787
+
+imgDICM_21Epoch_3
+alpha:tensor([0.7747], device='cuda:0', requires_grad=True)
+PSNR:35.77605663323885
+SSIM:0.9032247066497803
+
+imgDICM_22Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:26.745864595944504
+SSIM:0.9387384057044983
+
+imgDICM_22Epoch_3
+alpha:tensor([0.6824], device='cuda:0', requires_grad=True)
+PSNR:34.16101949487987
+SSIM:0.9686496257781982
+
+imgDICM_22Epoch_4
+alpha:tensor([0.6694], device='cuda:0', requires_grad=True)
+PSNR:34.9740262816256
+SSIM:0.9728109240531921
+
+imgDICM_22Epoch_5
+alpha:tensor([0.6685], device='cuda:0', requires_grad=True)
+PSNR:38.82640691843907
+SSIM:0.9691520929336548
+
+imgDICM_22Epoch_6
+alpha:tensor([0.6724], device='cuda:0', requires_grad=True)
+PSNR:40.523793372956405
+SSIM:0.9684686064720154
+
+imgDICM_22Epoch_7
+alpha:tensor([0.6773], device='cuda:0', requires_grad=True)
+PSNR:40.94019147559045
+SSIM:0.9690501689910889
+
+imgDICM_22Epoch_8
+alpha:tensor([0.6874], device='cuda:0', requires_grad=True)
+PSNR:41.96180711227648
+SSIM:0.966076135635376
+
+imgDICM_23Epoch_2
+alpha:tensor([0.8000], device='cuda:0', requires_grad=True)
+PSNR:23.534296593713336
+SSIM:0.9365389347076416
+
+imgDICM_23Epoch_4
+alpha:tensor([0.8489], device='cuda:0', requires_grad=True)
+PSNR:24.812252893975675
+SSIM:0.9487245082855225
+
+imgDICM_23Epoch_5
+alpha:tensor([0.8391], device='cuda:0', requires_grad=True)
+PSNR:26.08902624086636
+SSIM:0.954422652721405
+
+imgDICM_23Epoch_9
+alpha:tensor([0.8399], device='cuda:0', requires_grad=True)
+PSNR:26.193047830911937
+SSIM:0.9559383392333984
+
+imgDICM_23Epoch_11
+alpha:tensor([0.8249], device='cuda:0', requires_grad=True)
+PSNR:28.212389422008375
+SSIM:0.9690278768539429
+
+imgDICM_23Epoch_13
+alpha:tensor([0.8014], device='cuda:0', requires_grad=True)
+PSNR:31.550740891521784
+SSIM:0.9770360589027405
+
+imgDICM_23Epoch_14
+alpha:tensor([0.7849], device='cuda:0', requires_grad=True)
+PSNR:33.94567872391426
+SSIM:0.9793111681938171
+
+imgDICM_23Epoch_17
+alpha:tensor([0.7751], device='cuda:0', requires_grad=True)
+PSNR:34.25884438752679
+SSIM:0.9769955277442932
+
+imgDICM_23Epoch_18
+alpha:tensor([0.7735], device='cuda:0', requires_grad=True)
+PSNR:37.071744688143134
+SSIM:0.9830809831619263
+
+imgDICM_23Epoch_19
+alpha:tensor([0.7716], device='cuda:0', requires_grad=True)
+PSNR:37.59375136686266
+SSIM:0.980669379234314
+
+imgDICM_23Epoch_20
+alpha:tensor([0.7694], device='cuda:0', requires_grad=True)
+PSNR:40.24280320739209
+SSIM:0.9839060306549072
+
+imgDICM_23Epoch_21
+alpha:tensor([0.7669], device='cuda:0', requires_grad=True)
+PSNR:44.40197021094537
+SSIM:0.9880333542823792
+
+imgDICM_23Epoch_26
+alpha:tensor([0.7531], device='cuda:0', requires_grad=True)
+PSNR:44.79137330149095
+SSIM:0.9869036674499512
+
+imgDICM_23Epoch_27
+alpha:tensor([0.7512], device='cuda:0', requires_grad=True)
+PSNR:44.887027342850196
+SSIM:0.9857608079910278
+
+imgDICM_23Epoch_28
+alpha:tensor([0.7495], device='cuda:0', requires_grad=True)
+PSNR:45.02391817887922
+SSIM:0.9844529628753662
+
+imgDICM_23Epoch_29
+alpha:tensor([0.7477], device='cuda:0', requires_grad=True)
+PSNR:45.49076124473498
+SSIM:0.9863708019256592
+
+imgDICM_23Epoch_30
+alpha:tensor([0.7463], device='cuda:0', requires_grad=True)
+PSNR:45.557337437731704
+SSIM:0.984476625919342
+
+imgDICM_24Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:24.416970259272208
+SSIM:0.9774900078773499
+
+imgDICM_25Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:32.5292232682427
+SSIM:0.9370321035385132
+
+imgDICM_25Epoch_3
+alpha:tensor([0.6710], device='cuda:0', requires_grad=True)
+PSNR:33.481385508553124
+SSIM:0.933935284614563
+
+imgDICM_25Epoch_6
+alpha:tensor([0.6281], device='cuda:0', requires_grad=True)
+PSNR:33.85997412969207
+SSIM:0.9470407962799072
+
+imgDICM_25Epoch_14
+alpha:tensor([0.6114], device='cuda:0', requires_grad=True)
+PSNR:35.65620119873505
+SSIM:0.9468156099319458
+
+imgDICM_25Epoch_15
+alpha:tensor([0.6350], device='cuda:0', requires_grad=True)
+PSNR:38.24760032881332
+SSIM:0.9459748268127441
+
+imgDICM_25Epoch_16
+alpha:tensor([0.6380], device='cuda:0', requires_grad=True)
+PSNR:38.681496622956466
+SSIM:0.9436519742012024
+
+imgDICM_25Epoch_17
+alpha:tensor([0.6415], device='cuda:0', requires_grad=True)
+PSNR:38.96757639630728
+SSIM:0.9439313411712646
+
+imgDICM_25Epoch_18
+alpha:tensor([0.6444], device='cuda:0', requires_grad=True)
+PSNR:39.194389732016965
+SSIM:0.947218120098114
+
+imgDICM_25Epoch_19
+alpha:tensor([0.6473], device='cuda:0', requires_grad=True)
+PSNR:39.417228890190486
+SSIM:0.9485042095184326
+
+imgDICM_25Epoch_20
+alpha:tensor([0.6503], device='cuda:0', requires_grad=True)
+PSNR:39.469761100913416
+SSIM:0.9480119943618774
+
+imgDICM_25Epoch_21
+alpha:tensor([0.6531], device='cuda:0', requires_grad=True)
+PSNR:39.787392963217165
+SSIM:0.9505403637886047
+
+imgDICM_25Epoch_22
+alpha:tensor([0.6558], device='cuda:0', requires_grad=True)
+PSNR:40.05250750657764
+SSIM:0.9532442688941956
+
+imgDICM_25Epoch_24
+alpha:tensor([0.6607], device='cuda:0', requires_grad=True)
+PSNR:40.45686462070201
+SSIM:0.9538607597351074
+
+imgDICM_25Epoch_25
+alpha:tensor([0.6637], device='cuda:0', requires_grad=True)
+PSNR:40.59344665921116
+SSIM:0.9521964192390442
+
+imgDICM_27Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:31.123166907610475
+SSIM:0.8743947148323059
+
+imgDICM_27Epoch_3
+alpha:tensor([0.6670], device='cuda:0', requires_grad=True)
+PSNR:34.205762024900004
+SSIM:0.9365814924240112
+
+imgDICM_27Epoch_5
+alpha:tensor([0.6221], device='cuda:0', requires_grad=True)
+PSNR:34.224991753948906
+SSIM:0.9069857001304626
+
+imgDICM_27Epoch_6
+alpha:tensor([0.6426], device='cuda:0', requires_grad=True)
+PSNR:41.085991203295265
+SSIM:0.894486665725708
+
+imgDICM_27Epoch_7
+alpha:tensor([0.6738], device='cuda:0', requires_grad=True)
+PSNR:41.894350066676
+SSIM:0.8809800148010254
+
+imgDICM_28Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:24.70892818419088
+SSIM:0.8929213881492615
+
+imgDICM_28Epoch_3
+alpha:tensor([0.6767], device='cuda:0', requires_grad=True)
+PSNR:27.729861558631292
+SSIM:0.8911800384521484
+
+imgDICM_28Epoch_4
+alpha:tensor([0.6656], device='cuda:0', requires_grad=True)
+PSNR:31.18101539730541
+SSIM:0.9045429229736328
+
+imgDICM_28Epoch_5
+alpha:tensor([0.6648], device='cuda:0', requires_grad=True)
+PSNR:33.52422947723001
+SSIM:0.9086145162582397
+
+imgNPE_1Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:31.256926077673253
+SSIM:0.7360353469848633
+
+imgNPE_10Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.377917918000925
+SSIM:0.6439918875694275
+
+imgNPE_10Epoch_5
+alpha:tensor([0.6340], device='cuda:0', requires_grad=True)
+PSNR:23.657971944345956
+SSIM:0.6463833451271057
+
+imgNPE_10Epoch_6
+alpha:tensor([0.6009], device='cuda:0', requires_grad=True)
+PSNR:24.004359407952705
+SSIM:0.6465035676956177
+
+imgNPE_10Epoch_7
+alpha:tensor([0.5702], device='cuda:0', requires_grad=True)
+PSNR:24.150859378088377
+SSIM:0.6459426879882812
+
+imgNPE_10Epoch_8
+alpha:tensor([0.5459], device='cuda:0', requires_grad=True)
+PSNR:24.17558884885419
+SSIM:0.6451153755187988
+
+imgNPE_12Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.834188057431298
+SSIM:0.6407939791679382
+
+imgNPE_12Epoch_3
+alpha:tensor([0.6541], device='cuda:0', requires_grad=True)
+PSNR:22.901298059159302
+SSIM:0.6423654556274414
+
+imgNPE_13Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:27.948532616469052
+SSIM:0.7128523588180542
+
+imgNPE_14Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:24.971973194611444
+SSIM:0.6016610264778137
+
+imgNPE_1Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.69845028763346
+SSIM:0.6561318635940552
+
+imgNPE_1Epoch_3
+alpha:tensor([0.6696], device='cuda:0', requires_grad=True)
+PSNR:32.36393611855042
+SSIM:0.7372223734855652
+
+imgNPE_10Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.041736344764473
+SSIM:0.6408537030220032
+
+imgNPE_10Epoch_3
+alpha:tensor([0.5735], device='cuda:0', requires_grad=True)
+PSNR:24.1146584053443
+SSIM:0.6454915404319763
+
+imgNPE_10Epoch_13
+alpha:tensor([0.4612], device='cuda:0', requires_grad=True)
+PSNR:24.11991806444454
+SSIM:0.6444240808486938
+
+imgNPE_10Epoch_28
+alpha:tensor([0.4170], device='cuda:0', requires_grad=True)
+PSNR:24.250538015204285
+SSIM:0.6443983912467957
+
+imgNPE_10Epoch_30
+alpha:tensor([0.4162], device='cuda:0', requires_grad=True)
+PSNR:24.260881034831264
+SSIM:0.6449452638626099
+
+imgNPE_12Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:22.534244005724272
+SSIM:0.6442381739616394
+
+imgNPE_13Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.022653484209453
+SSIM:0.7018297910690308
+
+imgNPE_14Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.2752774633351
+SSIM:0.597183108329773
+
+imgNPE_15Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:19.348913101194405
+SSIM:0.7014741897583008
+
+imgNPE_15Epoch_3
+alpha:tensor([0.6660], device='cuda:0', requires_grad=True)
+PSNR:27.928035936140596
+SSIM:0.724159836769104
+
+imgNPE_16Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.0737249835459
+SSIM:0.6099409461021423
+
+imgNPE_16Epoch_3
+alpha:tensor([0.6656], device='cuda:0', requires_grad=True)
+PSNR:29.524903628152117
+SSIM:0.6390823721885681
+
+imgNPE_17Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.190430685306122
+SSIM:0.7698488235473633
+
+imgNPE_2Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.308893858408666
+SSIM:0.5991759896278381
+
+imgNPE_2Epoch_3
+alpha:tensor([0.5522], device='cuda:0', requires_grad=True)
+PSNR:25.551644862859135
+SSIM:0.6040769219398499
+
+imgNPE_2Epoch_7
+alpha:tensor([0.4745], device='cuda:0', requires_grad=True)
+PSNR:25.620110800435512
+SSIM:0.6035403609275818
+
+imgNPE_2Epoch_9
+alpha:tensor([0.4483], device='cuda:0', requires_grad=True)
+PSNR:25.706461696169395
+SSIM:0.6042219996452332
+
+imgNPE_2Epoch_11
+alpha:tensor([0.4224], device='cuda:0', requires_grad=True)
+PSNR:25.737783890412047
+SSIM:0.6040184497833252
+
+imgNPE_2Epoch_12
+alpha:tensor([0.4086], device='cuda:0', requires_grad=True)
+PSNR:25.765312043016507
+SSIM:0.6050835847854614
+
+imgNPE_2Epoch_19
+alpha:tensor([0.3437], device='cuda:0', requires_grad=True)
+PSNR:25.837705339820403
+SSIM:0.6045963764190674
+
+imgNPE_2Epoch_20
+alpha:tensor([0.3422], device='cuda:0', requires_grad=True)
+PSNR:25.953742175653986
+SSIM:0.6053093671798706
+
+imgNPE_2Epoch_21
+alpha:tensor([0.3409], device='cuda:0', requires_grad=True)
+PSNR:25.977465637132504
+SSIM:0.6054162383079529
+
+imgNPE_2Epoch_26
+alpha:tensor([0.3352], device='cuda:0', requires_grad=True)
+PSNR:26.01429690397491
+SSIM:0.6045277118682861
+
+imgNPE_2Epoch_29
+alpha:tensor([0.3360], device='cuda:0', requires_grad=True)
+PSNR:26.0251291800326
+SSIM:0.6028376221656799
+
+imgNPE_20Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.35435574312247
+SSIM:0.7971027493476868
+
+imgNPE_20Epoch_4
+alpha:tensor([0.7235], device='cuda:0', requires_grad=True)
+PSNR:28.816364830444687
+SSIM:0.8304848670959473
+
+imgNPE_20Epoch_6
+alpha:tensor([0.6812], device='cuda:0', requires_grad=True)
+PSNR:30.229200218273213
+SSIM:0.8328420519828796
+
+imgNPE_20Epoch_7
+alpha:tensor([0.6622], device='cuda:0', requires_grad=True)
+PSNR:30.271664546130413
+SSIM:0.8320601582527161
+
+imgNPE_20Epoch_8
+alpha:tensor([0.6486], device='cuda:0', requires_grad=True)
+PSNR:30.288094651781357
+SSIM:0.8313709497451782
+
+imgNPE_20Epoch_9
+alpha:tensor([0.6383], device='cuda:0', requires_grad=True)
+PSNR:30.360552950413435
+SSIM:0.8308741450309753
+
+imgNPE_22Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:28.10080651250351
+SSIM:0.8009621500968933
+
+imgNPE_22Epoch_3
+alpha:tensor([0.6220], device='cuda:0', requires_grad=True)
+PSNR:30.10764936256689
+SSIM:0.8043983578681946
+
+imgNPE_22Epoch_10
+alpha:tensor([0.6868], device='cuda:0', requires_grad=True)
+PSNR:32.67347081423615
+SSIM:0.8104342818260193
+
+imgNPE_22Epoch_11
+alpha:tensor([0.6643], device='cuda:0', requires_grad=True)
+PSNR:33.99826690352701
+SSIM:0.8113343119621277
+
+imgNPE_24Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:24.786994717432982
+SSIM:0.8417325615882874
+
+imgNPE_24Epoch_3
+alpha:tensor([0.6678], device='cuda:0', requires_grad=True)
+PSNR:29.007258144352868
+SSIM:0.8658652305603027
+
+imgNPE_24Epoch_4
+alpha:tensor([0.6438], device='cuda:0', requires_grad=True)
+PSNR:29.12039926775769
+SSIM:0.8758445978164673
+
+imgNPE_25Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.74799079404161
+SSIM:0.836456298828125
+
+imgNPE_25Epoch_4
+alpha:tensor([0.7292], device='cuda:0', requires_grad=True)
+PSNR:29.164627883947205
+SSIM:0.8613067865371704
+
+imgNPE_25Epoch_10
+alpha:tensor([0.7305], device='cuda:0', requires_grad=True)
+PSNR:29.51195885178727
+SSIM:0.8614073395729065
+
+imgNPE_25Epoch_11
+alpha:tensor([0.7125], device='cuda:0', requires_grad=True)
+PSNR:33.14470948802112
+SSIM:0.8646553158760071
+
+imgNPE_25Epoch_12
+alpha:tensor([0.6912], device='cuda:0', requires_grad=True)
+PSNR:35.977330580405955
+SSIM:0.8643624782562256
+
+imgNPE_25Epoch_14
+alpha:tensor([0.6542], device='cuda:0', requires_grad=True)
+PSNR:37.01263740638309
+SSIM:0.8586521744728088
+
+imgNPE_28Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:22.32968511568788
+SSIM:0.6359391808509827
+
+imgNPE_28Epoch_3
+alpha:tensor([0.5528], device='cuda:0', requires_grad=True)
+PSNR:22.435791289251572
+SSIM:0.6360434889793396
+
+imgNPE_28Epoch_4
+alpha:tensor([0.5071], device='cuda:0', requires_grad=True)
+PSNR:22.516415313368512
+SSIM:0.6338835954666138
+
+imgNPE_29Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:20.770748215431198
+SSIM:0.7546880841255188
+
+imgNPE_29Epoch_3
+alpha:tensor([0.6676], device='cuda:0', requires_grad=True)
+PSNR:31.612916070246584
+SSIM:0.7504783868789673
+
+imgNPE_29Epoch_4
+alpha:tensor([0.6501], device='cuda:0', requires_grad=True)
+PSNR:32.61373142329114
+SSIM:0.7534487247467041
+
+imgNPE_29Epoch_5
+alpha:tensor([0.6383], device='cuda:0', requires_grad=True)
+PSNR:32.769208988898875
+SSIM:0.7502467036247253
+
+imgNPE_29Epoch_14
+alpha:tensor([0.5950], device='cuda:0', requires_grad=True)
+PSNR:32.83630551864623
+SSIM:0.7469347715377808
+
+imgNPE_29Epoch_20
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:32.92121391774018
+SSIM:0.7401650547981262
+
+imgNPE_29Epoch_27
+alpha:tensor([0.5993], device='cuda:0', requires_grad=True)
+PSNR:32.941049657188124
+SSIM:0.7461845874786377
+
+imgNPE_3Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:27.243356491682125
+SSIM:0.6934363842010498
+
+imgNPE_30Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:23.412154951399273
+SSIM:0.6809991598129272
+
+imgNPE_30Epoch_4
+alpha:tensor([0.7517], device='cuda:0', requires_grad=True)
+PSNR:24.498226044121246
+SSIM:0.689141571521759
+
+imgNPE_30Epoch_11
+alpha:tensor([0.7783], device='cuda:0', requires_grad=True)
+PSNR:25.001500936084895
+SSIM:0.6897649168968201
+
+imgNPE_30Epoch_12
+alpha:tensor([0.7459], device='cuda:0', requires_grad=True)
+PSNR:26.653533902500918
+SSIM:0.6921127438545227
+
+imgNPE_30Epoch_13
+alpha:tensor([0.7183], device='cuda:0', requires_grad=True)
+PSNR:27.109221134115657
+SSIM:0.6925695538520813
+
+imgNPE_30Epoch_14
+alpha:tensor([0.6875], device='cuda:0', requires_grad=True)
+PSNR:27.402769932499336
+SSIM:0.6917735934257507
+
+imgNPE_30Epoch_15
+alpha:tensor([0.6603], device='cuda:0', requires_grad=True)
+PSNR:27.4529100556608
+SSIM:0.6926217675209045
+
+imgNPE_31Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:22.99260708547664
+SSIM:0.8527630567550659
+
+imgNPE_33Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:20.795717755131893
+SSIM:0.6847493052482605
+
+imgNPE_33Epoch_3
+alpha:tensor([0.6788], device='cuda:0', requires_grad=True)
+PSNR:25.545755162415308
+SSIM:0.7086837291717529
+
+imgNPE_33Epoch_4
+alpha:tensor([0.6500], device='cuda:0', requires_grad=True)
+PSNR:26.676535751303042
+SSIM:0.7125009894371033
+
+imgNPE_33Epoch_5
+alpha:tensor([0.6126], device='cuda:0', requires_grad=True)
+PSNR:27.10598309732837
+SSIM:0.7105011343955994
+
+imgNPE_33Epoch_8
+alpha:tensor([0.5107], device='cuda:0', requires_grad=True)
+PSNR:27.13057026688016
+SSIM:0.7016990184783936
+
+imgNPE_33Epoch_9
+alpha:tensor([0.4996], device='cuda:0', requires_grad=True)
+PSNR:27.293214624375494
+SSIM:0.6999004483222961
+
+imgNPE_34Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.37833348304582
+SSIM:0.7408556938171387
+
+imgNPE_35Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:22.00855083329209
+SSIM:0.8255303502082825
+
+imgNPE_35Epoch_3
+alpha:tensor([0.5530], device='cuda:0', requires_grad=True)
+PSNR:22.025226789684243
+SSIM:0.8250254392623901
+
+imgNPE_35Epoch_4
+alpha:tensor([0.5061], device='cuda:0', requires_grad=True)
+PSNR:22.34993830429621
+SSIM:0.8274009823799133
+
+imgNPE_35Epoch_5
+alpha:tensor([0.4595], device='cuda:0', requires_grad=True)
+PSNR:22.534377761301588
+SSIM:0.8274886608123779
+
+imgNPE_35Epoch_6
+alpha:tensor([0.4143], device='cuda:0', requires_grad=True)
+PSNR:22.599990212963803
+SSIM:0.8271102905273438
+
+imgNPE_35Epoch_7
+alpha:tensor([0.3686], device='cuda:0', requires_grad=True)
+PSNR:22.63919873028287
+SSIM:0.8274156451225281
+
+imgNPE_36Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:21.546841372782005
+SSIM:0.7545491456985474
+
+imgNPE_37Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.606984229423055
+SSIM:0.6372084021568298
+
+imgNPE_39Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.328980506662834
+SSIM:0.5840771794319153
+
+imgNPE_41Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.185361308691675
+SSIM:0.7121618986129761
+
+imgNPE_42Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.529686267672453
+SSIM:0.6101163029670715
+
+imgNPE_44Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:30.947203335112995
+SSIM:0.6521165370941162
+
+imgNPE_46Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.754137047431932
+SSIM:0.7773371934890747
+
+imgNPE_46Epoch_6
+alpha:tensor([0.4386], device='cuda:0', requires_grad=True)
+PSNR:26.47703141002854
+SSIM:0.7768135666847229
+
+imgNPE_47Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.850439220233234
+SSIM:0.8242514133453369
+
+imgNPE_48Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.23536714280297
+SSIM:0.6837825179100037
+
+imgNPE_49Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:22.061145981167243
+SSIM:0.8723159432411194
+
+imgNPE_5Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.136769119101416
+SSIM:0.8779317140579224
+
+imgNPE_5Epoch_4
+alpha:tensor([0.5174], device='cuda:0', requires_grad=True)
+PSNR:25.408600557386496
+SSIM:0.8731397986412048
+
+imgNPE_51Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:28.042413324715053
+SSIM:0.6106650233268738
+
+imgNPE_51Epoch_3
+alpha:tensor([0.6167], device='cuda:0', requires_grad=True)
+PSNR:31.633445155566008
+SSIM:0.6076715588569641
+
+imgNPE_51Epoch_10
+alpha:tensor([0.6658], device='cuda:0', requires_grad=True)
+PSNR:32.06453398294056
+SSIM:0.6092393398284912
+
+imgNPE_52Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.31306319120404
+SSIM:0.5740377902984619
+
+imgNPE_52Epoch_3
+alpha:tensor([0.6155], device='cuda:0', requires_grad=True)
+PSNR:33.32229170451059
+SSIM:0.5829631090164185
+
+imgNPE_53Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:28.35520506782098
+SSIM:0.8283300399780273
+
+imgNPE_54Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:26.98148578176934
+SSIM:0.623810350894928
+
+imgNPE_54Epoch_4
+alpha:tensor([0.5288], device='cuda:0', requires_grad=True)
+PSNR:29.566014276929074
+SSIM:0.6146517992019653
+
+imgNPE_57Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.600579428594642
+SSIM:0.5316093564033508
+
+imgNPE_57Epoch_3
+alpha:tensor([0.6834], device='cuda:0', requires_grad=True)
+PSNR:31.035438167599963
+SSIM:0.5539371967315674
+
+imgNPE_57Epoch_5
+alpha:tensor([0.6524], device='cuda:0', requires_grad=True)
+PSNR:31.89314667248764
+SSIM:0.5538372993469238
+
+imgNPE_57Epoch_6
+alpha:tensor([0.6328], device='cuda:0', requires_grad=True)
+PSNR:32.26374252580438
+SSIM:0.5528956651687622
+
+imgNPE_57Epoch_15
+alpha:tensor([0.6034], device='cuda:0', requires_grad=True)
+PSNR:32.54541881457879
+SSIM:0.5462588667869568
+
+imgNPE_58Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:32.55399966292621
+SSIM:0.548973560333252
+
+imgNPE_58Epoch_4
+alpha:tensor([0.5241], device='cuda:0', requires_grad=True)
+PSNR:33.18843230357099
+SSIM:0.5413177013397217
+
+imgNPE_58Epoch_5
+alpha:tensor([0.5080], device='cuda:0', requires_grad=True)
+PSNR:33.79199581451292
+SSIM:0.5405152440071106
+
+imgNPE_59Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.740990725469096
+SSIM:0.7089843153953552
+
+imgNPE_59Epoch_3
+alpha:tensor([0.5623], device='cuda:0', requires_grad=True)
+PSNR:24.897696289623397
+SSIM:0.7182101607322693
+
+imgNPE_59Epoch_4
+alpha:tensor([0.5397], device='cuda:0', requires_grad=True)
+PSNR:26.716134342790255
+SSIM:0.7236908674240112
+
+imgNPE_6Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.48070261376695
+SSIM:0.7857544422149658
+
+imgNPE_60Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.612888939656102
+SSIM:0.6319468021392822
+
+imgNPE_60Epoch_6
+alpha:tensor([0.4431], device='cuda:0', requires_grad=True)
+PSNR:23.767506769364743
+SSIM:0.6248775720596313
+
+imgNPE_60Epoch_8
+alpha:tensor([0.3958], device='cuda:0', requires_grad=True)
+PSNR:23.937567636361603
+SSIM:0.6262952089309692
+
+imgNPE_60Epoch_10
+alpha:tensor([0.3631], device='cuda:0', requires_grad=True)
+PSNR:24.051630571863395
+SSIM:0.6234459280967712
+
+imgNPE_60Epoch_11
+alpha:tensor([0.3517], device='cuda:0', requires_grad=True)
+PSNR:24.192486140515403
+SSIM:0.6228960156440735
+
+imgNPE_61Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.88948944987184
+SSIM:0.705061674118042
+
+imgNPE_61Epoch_3
+alpha:tensor([0.5658], device='cuda:0', requires_grad=True)
+PSNR:27.077219465648067
+SSIM:0.7106317281723022
+
+imgNPE_62Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.13367005460113
+SSIM:0.8135550618171692
+
+imgNPE_64Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:20.76779559184444
+SSIM:0.6065372228622437
+
+imgNPE_65Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.78644520989747
+SSIM:0.8648744225502014
+
+imgNPE_66Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.126194354936807
+SSIM:0.8885277509689331
+
+imgNPE_67Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.007748352409955
+SSIM:0.6444136500358582
+
+imgNPE_67Epoch_3
+alpha:tensor([0.5849], device='cuda:0', requires_grad=True)
+PSNR:30.437390679546432
+SSIM:0.6380952596664429
+
+imgNPE_68Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.8683441426067
+SSIM:0.7465623617172241
+
+imgNPE_68Epoch_3
+alpha:tensor([0.5673], device='cuda:0', requires_grad=True)
+PSNR:27.718662110660084
+SSIM:0.9392638802528381
+
+imgNPE_68Epoch_4
+alpha:tensor([0.5571], device='cuda:0', requires_grad=True)
+PSNR:32.10136359646111
+SSIM:0.7933337092399597
+
+imgNPE_68Epoch_5
+alpha:tensor([0.5533], device='cuda:0', requires_grad=True)
+PSNR:33.315730492829665
+SSIM:0.7035948634147644
+
+imgNPE_68Epoch_6
+alpha:tensor([0.5511], device='cuda:0', requires_grad=True)
+PSNR:33.38008273684206
+SSIM:0.7089254260063171
+
+imgNPE_69Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.938814154006153
+SSIM:0.8659796714782715
+
+imgNPE_7Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.851195329121627
+SSIM:0.7043328881263733
+
+imgNPE_7Epoch_3
+alpha:tensor([0.5659], device='cuda:0', requires_grad=True)
+PSNR:27.414620716924233
+SSIM:0.6966932415962219
+
+imgNPE_70Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.62052173297539
+SSIM:0.9134334921836853
+
+imgNPE_70Epoch_3
+alpha:tensor([0.5634], device='cuda:0', requires_grad=True)
+PSNR:24.851410314313945
+SSIM:0.9123808145523071
+
+imgNPE_72Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.275614959407797
+SSIM:0.8710935711860657
+
+imgNPE_73Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.65353492519219
+SSIM:0.9300183653831482
+
+imgNPE_74Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.712161621515047
+SSIM:0.8537254333496094
+
+imgNPE_74Epoch_4
+alpha:tensor([0.5287], device='cuda:0', requires_grad=True)
+PSNR:25.632923932124243
+SSIM:0.8523949384689331
+
+imgNPE_75Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:22.48499741715905
+SSIM:0.7243176698684692
+
+imgNPE_75Epoch_4
+alpha:tensor([0.7437], device='cuda:0', requires_grad=True)
+PSNR:24.20534951778402
+SSIM:0.7383658289909363
+
+imgNPE_75Epoch_6
+alpha:tensor([0.7279], device='cuda:0', requires_grad=True)
+PSNR:29.266438804650782
+SSIM:0.67787766456604
+
+imgNPE_75Epoch_7
+alpha:tensor([0.7007], device='cuda:0', requires_grad=True)
+PSNR:32.574379875605416
+SSIM:0.7144070267677307
+
+imgNPE_76Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:24.460872301316737
+SSIM:0.9225165247917175
+
+imgNPE_77Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.126589304290576
+SSIM:0.8944973945617676
+
+imgNPE_77Epoch_3
+alpha:tensor([0.6165], device='cuda:0', requires_grad=True)
+PSNR:31.66715299891168
+SSIM:0.8960098624229431
+
+imgNPE_77Epoch_12
+alpha:tensor([0.7119], device='cuda:0', requires_grad=True)
+PSNR:31.784959378490317
+SSIM:0.8995272517204285
+
+imgNPE_77Epoch_13
+alpha:tensor([0.6939], device='cuda:0', requires_grad=True)
+PSNR:31.98106762967356
+SSIM:0.8995339274406433
+
+imgNPE_77Epoch_14
+alpha:tensor([0.6744], device='cuda:0', requires_grad=True)
+PSNR:32.17384764351464
+SSIM:0.9007977247238159
+
+imgNPE_77Epoch_18
+alpha:tensor([0.6520], device='cuda:0', requires_grad=True)
+PSNR:32.24621936256445
+SSIM:0.8998377919197083
+
+imgNPE_78Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.680262805521316
+SSIM:0.9053594470024109
+
+imgNPE_79Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:25.250406370902724
+SSIM:0.8525035381317139
+
+imgNPE_8Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:23.14198583196631
+SSIM:0.7077386379241943
+
+imgNPE_80Epoch_2
+alpha:tensor([0.7000], device='cuda:0', requires_grad=True)
+PSNR:21.249199524301886
+SSIM:0.7387299537658691
+
+imgNPE_80Epoch_3
+alpha:tensor([0.6665], device='cuda:0', requires_grad=True)
+PSNR:29.994954456352716
+SSIM:0.7521615028381348
+
+imgNPE_81Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:27.935368112297144
+SSIM:0.5353333353996277
+
+imgNPE_83Epoch_2
+alpha:tensor([0.6000], device='cuda:0', requires_grad=True)
+PSNR:26.306975739517846
+SSIM:0.8039582371711731
+
